@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UsagesStatistic" time="1369051436277" allowed="true" show-notification="false" period="weekly">
+    <group id="Look and Feel" priority="0.0" data="Mac OS X - Default=1" />
+    <group id="compiler" priority="0.0" data="external_build=1" />
+    <group id="features counts" priority="0.0" data="execute.ScalaScriptConsoleRunConfiguration.Run=1,execute.JUnit.Run=111,execute.Application.Run=55,execute.JUnit.Debug=1,CreateFile.CreateFileAction=2" />
+    <group id="file-type" priority="0.0" data="XML=9,Scala=6,HTML=4,PLAIN_TEXT=8,JAVA=5,IDEA_MODULE=9,Properties=5,UNKNOWN=9,JavaScript files (syntax highlighting only)=1,Native=1,Images=1" />
+    <group id="frameworks" priority="0.0" data="scala=6" />
+    <group id="language-level" priority="0.0" data="JDK_1_6=9" />
+    <group id="libraries" priority="0.0" data="groovy=5" />
+    <group id="module type" priority="0.0" data="JAVA_MODULE=9" />
+    <group id="non-bundled-plugins" priority="0.0" data="org.intellij.scala=1,com.intellij=1" />
+    <group id="productivity" priority="0.0" data="ui.tree.speedsearch=2,navigation.popup.class=64,editing.completion.variable.name=669,editing.select.word=307,editing.completion.second.basic=11,codeassists.highlight.return=12,codeassists.comment.line=102,refactoring.introduceVariable=7,codeassists.quickjavadoc=1,editing.completion.camelHumps=4,navigation.goto.declaration=174,editing.completion.global.member.name=3,editing.completion.basic=221,navigation.popup.camelprefix=18,editing.completion.finishByControlEnter=125,codeassists.highlight.implements=1,codeassists.highlight.throws=5,refactoring.rename=7" />
+    <group id="run-configuration-type-temp" priority="0.0" data="Application=4,ScalaScriptConsoleRunConfiguration=1,JUnit=5" />
+    <group id="vcs" priority="0.0" data="Git=7" />
+  </component>
+</application>
+

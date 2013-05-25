@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="reminders" values="groovy" />
+      <project id="epg" values="groovy" />
+      <project id="commons" values="groovy" />
+      <project id="cpt-client" values="groovy" />
+      <project id="facebook-opengraph-spike" values="groovy" />
+    </group>
+    <group name="language-level">
+      <project id="reminders" values="JDK_1_6" />
+      <project id="benchmark" values="JDK_1_6" />
+      <project id="epg" values="JDK_1_6" />
+      <project id="commons" values="JDK_1_6" />
+      <project id="ZeeboxCore" values="JDK_1_6" />
+      <project id="cpt-client" values="JDK_1_6" />
+      <project id="elasticdb" values="JDK_1_6" />
+      <project id="facebook-opengraph-spike" values="JDK_1_6" />
+      <project id="jk" values="JDK_1_6" />
+    </group>
+    <group name="vcs">
+      <project id="reminders" values="Git" />
+      <project id="benchmark" values="Git" />
+      <project id="epg" values="Git" />
+      <project id="commons" values="Git" />
+      <project id="ZeeboxCore" values="Git" />
+      <project id="facebook-opengraph-spike" values="Git" />
+      <project id="jk" values="Git" />
+    </group>
+    <group name="module type">
+      <project id="reminders" values="JAVA_MODULE" />
+      <project id="benchmark" values="JAVA_MODULE" />
+      <project id="epg" values="JAVA_MODULE" />
+      <project id="commons" values="JAVA_MODULE" />
+      <project id="ZeeboxCore" values="JAVA_MODULE" />
+      <project id="cpt-client" values="JAVA_MODULE" />
+      <project id="elasticdb" values="JAVA_MODULE" />
+      <project id="facebook-opengraph-spike" values="JAVA_MODULE" />
+      <project id="jk" values="JAVA_MODULE" />
+    </group>
+    <group name="frameworks">
+      <project id="reminders" values="scala" />
+      <project id="epg" values="scala" />
+      <project id="commons" values="scala" />
+      <project id="ZeeboxCore" values="scala" />
+      <project id="cpt-client" values="scala" />
+      <project id="facebook-opengraph-spike" values="scala" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="reminders" values="ScalaScriptConsoleRunConfiguration,Application,JUnit" />
+      <project id="benchmark" values="Application" />
+      <project id="commons" values="JUnit" />
+      <project id="ZeeboxCore" values="JUnit" />
+      <project id="elasticdb" values="JUnit" />
+      <project id="facebook-opengraph-spike" values="Application" />
+      <project id="jk" values="JUnit,Application" />
+    </group>
+    <group name="file-type">
+      <project id="reminders" values="XML,Images,IDEA_MODULE,Scala,Properties,UNKNOWN,PLAIN_TEXT" />
+      <project id="benchmark" values="XML,IDEA_MODULE,JAVA,PLAIN_TEXT,UNKNOWN" />
+      <project id="epg" values="UNKNOWN,JavaScript files (syntax highlighting only),XML,Properties,HTML,PLAIN_TEXT,Scala,IDEA_MODULE" />
+      <project id="commons" values="Properties,UNKNOWN,JAVA,IDEA_MODULE,PLAIN_TEXT,XML,Native,Scala,HTML" />
+      <project id="ZeeboxCore" values="IDEA_MODULE,PLAIN_TEXT,Properties,HTML,UNKNOWN,Scala,XML" />
+      <project id="cpt-client" values="IDEA_MODULE,HTML,UNKNOWN,Properties,XML,Scala" />
+      <project id="elasticdb" values="UNKNOWN,JAVA,IDEA_MODULE,PLAIN_TEXT,XML" />
+      <project id="facebook-opengraph-spike" values="JAVA,Scala,PLAIN_TEXT,UNKNOWN,XML,IDEA_MODULE" />
+      <project id="jk" values="PLAIN_TEXT,IDEA_MODULE,UNKNOWN,XML,JAVA" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="3" />
+      <entry feature="execute.Application.Run" count="65" />
+      <entry feature="execute.JUnit.Debug" count="5" />
+      <entry feature="execute.JUnit.Run" count="316" />
+      <entry feature="execute.ScalaScriptConsoleRunConfiguration.Run" count="1" />
+    </counts>
+  </component>
+</application>
+
