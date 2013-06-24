@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="Compiler" displayType="NONE" />
+    <notification groupId="scala" />
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Test Runner" displayType="NONE" />
-    <notification groupId="Compiler" displayType="NONE" />
     <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Clean artifact" />
     <notification groupId="Grape" />
@@ -15,13 +16,17 @@
     <notification groupId="Android Property Files Updating" />
     <notification groupId="Framework Detection" />
     <notification groupId="Groovy DSL errors" />
-    <notification groupId="scala" />
-    <notification groupId="Plugins Lifecycle Group" />
-    <notification groupId="Project Loading Error" />
-    <notification groupId="Load Error" />
+    <notification groupId="Maven" />
     <notification groupId="Execution" displayType="NONE" />
+    <notification groupId="Load Error" />
+    <notification groupId="Project Loading Error" />
+    <notification groupId="Plugins Lifecycle Group" />
+    <notification groupId="HotSwap" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
     <toolWindow group="Git Messages" />
     <toolWindow group="FindInPath" />
+    <toolWindow group="HotSwap" />
+    <toolWindow group="Debugger messages" />
   </component>
 </application>
 

@@ -48,7 +48,7 @@ alias ssh-amq2='ssh live-eu-west-1b-amq2.zeebox.com'
 
 
 
-/Users/ck/apps/zinc/zinc-0.1.1/bin/zinc -nailed -start > /dev/null
+/Users/ck/apps/zinc-0.2.5/bin/zinc -nailed -start > /dev/null
 
 echo Yippeeee
 

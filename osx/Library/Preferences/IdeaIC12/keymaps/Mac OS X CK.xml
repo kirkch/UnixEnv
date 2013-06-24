@@ -18,6 +18,9 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GuiDesigner.IncreaseIndent" />
+  <action id="ImportModule">
+    <keyboard-shortcut first-keystroke="control alt I" />
+  </action>
   <action id="NextParameter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt RIGHT" />
