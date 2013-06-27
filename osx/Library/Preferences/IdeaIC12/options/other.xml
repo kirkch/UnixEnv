@@ -91,36 +91,36 @@
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="plugins" />
-          <item index="1" class="java.lang.String" itemvalue="plugin" />
-          <item index="2" class="java.lang.String" itemvalue="takeall" />
-          <item index="3" class="java.lang.String" itemvalue="core" />
-          <item index="4" class="java.lang.String" itemvalue="com.zeebox.core" />
-          <item index="5" class="java.lang.String" itemvalue="zeeboxcore.version" />
-          <item index="6" class="java.lang.String" itemvalue="possiblyExpectingExceptions" />
-          <item index="7" class="java.lang.String" itemvalue="Test.class" />
-          <item index="8" class="java.lang.String" itemvalue="ua joi" />
-          <item index="9" class="java.lang.String" itemvalue="episode" />
-          <item index="10" class="java.lang.String" itemvalue="newBookingDTO" />
-          <item index="11" class="java.lang.String" itemvalue="receiverdto" />
-          <item index="12" class="java.lang.String" itemvalue="bookEvent" />
-          <item index="13" class="java.lang.String" itemvalue="fromprogram" />
-          <item index="14" class="java.lang.String" itemvalue="brandFrom" />
-          <item index="15" class="java.lang.String" itemvalue="EpisodeDTOV1" />
-          <item index="16" class="java.lang.String" itemvalue="runnotigno" />
-          <item index="17" class="java.lang.String" itemvalue="seasond" />
-          <item index="18" class="java.lang.String" itemvalue="fetchActivityInformationForBookingFromTMS" />
-          <item index="19" class="java.lang.String" itemvalue="postingGeneralActivityWillFlagIfProfane" />
-          <item index="20" class="java.lang.String" itemvalue="BrandDTOV1" />
-          <item index="21" class="java.lang.String" itemvalue="buildReceiver" />
-          <item index="22" class="java.lang.String" itemvalue="10,10" />
-          <item index="23" class="java.lang.String" itemvalue="bla" />
-          <item index="24" class="java.lang.String" itemvalue="methodInvoker" />
-          <item index="25" class="java.lang.String" itemvalue="methodBlock" />
-          <item index="26" class="java.lang.String" itemvalue="writeResponse" />
-          <item index="27" class="java.lang.String" itemvalue="println" />
-          <item index="28" class="java.lang.String" itemvalue="echo" />
-          <item index="29" class="java.lang.String" itemvalue="booking" />
+          <item index="0" class="java.lang.String" itemvalue="EpisodeDTOV1" />
+          <item index="1" class="java.lang.String" itemvalue="runnotigno" />
+          <item index="2" class="java.lang.String" itemvalue="seasond" />
+          <item index="3" class="java.lang.String" itemvalue="postingGeneralActivityWillFlagIfProfane" />
+          <item index="4" class="java.lang.String" itemvalue="BrandDTOV1" />
+          <item index="5" class="java.lang.String" itemvalue="buildReceiver" />
+          <item index="6" class="java.lang.String" itemvalue="10,10" />
+          <item index="7" class="java.lang.String" itemvalue="bla" />
+          <item index="8" class="java.lang.String" itemvalue="methodInvoker" />
+          <item index="9" class="java.lang.String" itemvalue="methodBlock" />
+          <item index="10" class="java.lang.String" itemvalue="writeResponse" />
+          <item index="11" class="java.lang.String" itemvalue="println" />
+          <item index="12" class="java.lang.String" itemvalue="echo" />
+          <item index="13" class="java.lang.String" itemvalue="booking" />
+          <item index="14" class="java.lang.String" itemvalue="capit" />
+          <item index="15" class="java.lang.String" itemvalue="resolver" />
+          <item index="16" class="java.lang.String" itemvalue="fetchActivityInformationForBookingFromTMS" />
+          <item index="17" class="java.lang.String" itemvalue="book" />
+          <item index="18" class="java.lang.String" itemvalue="retrieveUserBookings_nobody_allowed_givesUnauthorized" />
+          <item index="19" class="java.lang.String" itemvalue="snapsh" />
+          <item index="20" class="java.lang.String" itemvalue="%%%%" />
+          <item index="21" class="java.lang.String" itemvalue="validateConfig" />
+          <item index="22" class="java.lang.String" itemvalue="project" />
+          <item index="23" class="java.lang.String" itemvalue="projectw" />
+          <item index="24" class="java.lang.String" itemvalue="env" />
+          <item index="25" class="java.lang.String" itemvalue="mkdi" />
+          <item index="26" class="java.lang.String" itemvalue="user" />
+          <item index="27" class="java.lang.String" itemvalue="sourceDirectories" />
+          <item index="28" class="java.lang.String" itemvalue="className.replaceAll" />
+          <item index="29" class="java.lang.String" itemvalue="scan" />
         </list>
       </value>
     </option>
@@ -211,15 +211,15 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/projects/Connector2/zconnect" />
         <option value="$USER_HOME$/projects/jc" />
-        <option value="$USER_HOME$/projects/ZeeboxCore" />
-        <option value="$USER_HOME$/projects/elasticdb/elasticdb.ipr" />
-        <option value="$USER_HOME$/projects/front/front.ipr" />
         <option value="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" />
+        <option value="$USER_HOME$/projects/front/front.ipr" />
+        <option value="$USER_HOME$/projects/elasticdb/elasticdb.ipr" />
         <option value="$USER_HOME$/projects/zCassandra" />
         <option value="$USER_HOME$/projects/StreamParser/stream-parser.ipr" />
         <option value="$USER_HOME$/projects/Connector2/bookings" />
+        <option value="$USER_HOME$/projects/Connector2/zconnect" />
+        <option value="$USER_HOME$/projects/ZeeboxCore" />
         <option value="$USER_HOME$/projects/Connector2" />
         <option value="$USER_HOME$/projects/ReminderService" />
         <option value="$USER_HOME$/projects/Connector2/reminderService" />
@@ -238,28 +238,31 @@
       <list>
         <option value="$USER_HOME$/projects/Connector2/bookings" />
         <option value="$USER_HOME$/projects/StreamParser/stream-parser.ipr" />
-        <option value="$USER_HOME$/projects/zCassandra" />
         <option value="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" />
-        <option value="$USER_HOME$/projects/front/front.ipr" />
-        <option value="$USER_HOME$/projects/elasticdb/elasticdb.ipr" />
       </list>
     </option>
     <option name="names">
       <map>
         <entry key="$USER_HOME$/projects/Connector2" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/bookings" value="" />
         <entry key="$USER_HOME$/projects/Connector2/clients/cpt-client" value="" />
         <entry key="$USER_HOME$/projects/Connector2/cpt" value="" />
         <entry key="$USER_HOME$/projects/Connector2/reminderService" value="" />
         <entry key="$USER_HOME$/projects/Connector2Commons" value="" />
+        <entry key="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" value="" />
         <entry key="$USER_HOME$/projects/ReminderService" value="" />
         <entry key="$USER_HOME$/projects/SandboxMosaic" value="" />
+        <entry key="$USER_HOME$/projects/StreamParser/stream-parser.ipr" value="" />
         <entry key="$USER_HOME$/projects/benchmark" value="" />
         <entry key="$USER_HOME$/projects/elasticdb" value="" />
+        <entry key="$USER_HOME$/projects/elasticdb/elasticdb.ipr" value="" />
+        <entry key="$USER_HOME$/projects/front/front.ipr" value="" />
         <entry key="$USER_HOME$/projects/spikes/facebook-opengraph" value="" />
         <entry key="$USER_HOME$/projects/threadtesting-mosaic" value="" />
+        <entry key="$USER_HOME$/projects/zCassandra" value="" />
       </map>
     </option>
-    <option name="lastPath" value="$USER_HOME$/projects/Connector2/zconnect" />
+    <option name="lastPath" value="$USER_HOME$/projects/jc" />
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
@@ -323,7 +326,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1372080930736" />
+    <option name="LAST_TIME_CHECKED" value="1372259541082" />
     <option name="LAST_BUILD_CHECKED" value="IC-129.713" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>

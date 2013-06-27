@@ -9,3 +9,7 @@ ln -s $DIR/bin ~/bin
 
 ln -s $DIR/osx/Library/Preferences/IdeaIC12 ~/Library/Preferences/IdeaIC12
 
+# todo check if brew is installed; and prompt to install it if it ain't
+
+brew install bash-completion
+

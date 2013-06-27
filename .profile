@@ -66,4 +66,13 @@ export PATH=$JAVA_HOME_1_6_0:/Users/ck/bin:/Users/ck/apps/play/play:/opt/local/b
 # prints a tree of directories
 alias filetree="ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|/'"
 
+  if [ -f $(brew --prefix)/etc/bash_completion ]; then
+    . $(brew --prefix)/etc/bash_completion
+  fi
 
+if [ -f /usr/local/git/contrib/completion/git-completion.bash ]; then
+  . /usr/local/git/contrib/completion/git-completion.bash 
+  . /usr/local/git/contrib/completion/git-prompt.sh 
+
+  PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
+fi
