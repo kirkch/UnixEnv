@@ -83,90 +83,94 @@
     <option name="COMMENTS_ONLY" value="false" />
     <option name="STRING_LITERALS_ONLY" value="false" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
-    <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/ck/projects/elasticdb/src/core/com/mosaic/elasticdb/core/CommandRouter.java'" />
+    <option name="SEARCH_SCOPE" value="Module 'notifications-server'" />
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="EpisodeDTOV1" />
-          <item index="1" class="java.lang.String" itemvalue="runnotigno" />
-          <item index="2" class="java.lang.String" itemvalue="seasond" />
-          <item index="3" class="java.lang.String" itemvalue="postingGeneralActivityWillFlagIfProfane" />
-          <item index="4" class="java.lang.String" itemvalue="BrandDTOV1" />
-          <item index="5" class="java.lang.String" itemvalue="buildReceiver" />
-          <item index="6" class="java.lang.String" itemvalue="10,10" />
-          <item index="7" class="java.lang.String" itemvalue="bla" />
-          <item index="8" class="java.lang.String" itemvalue="methodInvoker" />
-          <item index="9" class="java.lang.String" itemvalue="methodBlock" />
-          <item index="10" class="java.lang.String" itemvalue="writeResponse" />
-          <item index="11" class="java.lang.String" itemvalue="println" />
-          <item index="12" class="java.lang.String" itemvalue="echo" />
-          <item index="13" class="java.lang.String" itemvalue="booking" />
-          <item index="14" class="java.lang.String" itemvalue="capit" />
-          <item index="15" class="java.lang.String" itemvalue="resolver" />
-          <item index="16" class="java.lang.String" itemvalue="fetchActivityInformationForBookingFromTMS" />
-          <item index="17" class="java.lang.String" itemvalue="book" />
-          <item index="18" class="java.lang.String" itemvalue="retrieveUserBookings_nobody_allowed_givesUnauthorized" />
-          <item index="19" class="java.lang.String" itemvalue="snapsh" />
-          <item index="20" class="java.lang.String" itemvalue="%%%%" />
-          <item index="21" class="java.lang.String" itemvalue="validateConfig" />
-          <item index="22" class="java.lang.String" itemvalue="project" />
-          <item index="23" class="java.lang.String" itemvalue="projectw" />
-          <item index="24" class="java.lang.String" itemvalue="env" />
-          <item index="25" class="java.lang.String" itemvalue="mkdi" />
-          <item index="26" class="java.lang.String" itemvalue="user" />
-          <item index="27" class="java.lang.String" itemvalue="sourceDirectories" />
-          <item index="28" class="java.lang.String" itemvalue="className.replaceAll" />
-          <item index="29" class="java.lang.String" itemvalue="scan" />
+          <item index="0" class="java.lang.String" itemvalue="s" />
+          <item index="1" class="java.lang.String" itemvalue="social" />
+          <item index="2" class="java.lang.String" itemvalue="c2comm" />
+          <item index="3" class="java.lang.String" itemvalue="log4j" />
+          <item index="4" class="java.lang.String" itemvalue="slf4j" />
+          <item index="5" class="java.lang.String" itemvalue="utf8String" />
+          <item index="6" class="java.lang.String" itemvalue="utf8string" />
+          <item index="7" class="java.lang.String" itemvalue="sys" />
+          <item index="8" class="java.lang.String" itemvalue="zeeboxcore" />
+          <item index="9" class="java.lang.String" itemvalue="cassandra-ext.version" />
+          <item index="10" class="java.lang.String" itemvalue="cassandra-ext" />
+          <item index="11" class="java.lang.String" itemvalue="client" />
+          <item index="12" class="java.lang.String" itemvalue="testing" />
+          <item index="13" class="java.lang.String" itemvalue="social-clients" />
+          <item index="14" class="java.lang.String" itemvalue="grey" />
+          <item index="15" class="java.lang.String" itemvalue="social-clie" />
+          <item index="16" class="java.lang.String" itemvalue="log" />
+          <item index="17" class="java.lang.String" itemvalue="akka" />
+          <item index="18" class="java.lang.String" itemvalue="lang" />
+          <item index="19" class="java.lang.String" itemvalue="scal" />
+          <item index="20" class="java.lang.String" itemvalue="httpcl" />
+          <item index="21" class="java.lang.String" itemvalue="http" />
+          <item index="22" class="java.lang.String" itemvalue="shap" />
+          <item index="23" class="java.lang.String" itemvalue="zeebox.core.commons" />
+          <item index="24" class="java.lang.String" itemvalue="snap" />
+          <item index="25" class="java.lang.String" itemvalue="snapshot" />
+          <item index="26" class="java.lang.String" itemvalue="cassandra-ex" />
+          <item index="27" class="java.lang.String" itemvalue="ning" />
+          <item index="28" class="java.lang.String" itemvalue="commons-code" />
+          <item index="29" class="java.lang.String" itemvalue="apt" />
         </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="dedup_episodes" />
-          <item index="1" class="java.lang.String" itemvalue="&quot;dedup_episodes&quot;:true" />
-          <item index="2" class="java.lang.String" itemvalue="callback_offset" />
-          <item index="3" class="java.lang.String" itemvalue="callback" />
-          <item index="4" class="java.lang.String" itemvalue="Observable" />
-          <item index="5" class="java.lang.String" itemvalue="from(nowMillis," />
-          <item index="6" class="java.lang.String" itemvalue="add(nowMillis," />
-          <item index="7" class="java.lang.String" itemvalue="timeSeries" />
-          <item index="8" class="java.lang.String" itemvalue="StringValue" />
-          <item index="9" class="java.lang.String" itemvalue="put(nowMillis, " />
-          <item index="10" class="java.lang.String" itemvalue="nowMillis" />
-          <item index="11" class="java.lang.String" itemvalue="factory, env, folder" />
-          <item index="12" class="java.lang.String" itemvalue="put(system.getNowMillis(), " />
-          <item index="13" class="java.lang.String" itemvalue="put(system.getNowMillis(), &quot;f1&quot;, " />
-          <item index="14" class="java.lang.String" itemvalue="Folder" />
-          <item index="15" class="java.lang.String" itemvalue="package " />
-          <item index="16" class="java.lang.String" itemvalue="import " />
-          <item index="17" class="java.lang.String" itemvalue="import static " />
-          <item index="18" class="java.lang.String" itemvalue="get(" />
-          <item index="19" class="java.lang.String" itemvalue="env" />
-          <item index="20" class="java.lang.String" itemvalue=";" />
-          <item index="21" class="java.lang.String" itemvalue="_SYMBOL;" />
-          <item index="22" class="java.lang.String" itemvalue="SPACE" />
-          <item index="23" class="java.lang.String" itemvalue="SPACE,         &quot;" />
-          <item index="24" class="java.lang.String" itemvalue="BookingDTOV2" />
-          <item index="25" class="java.lang.String" itemvalue="BookingReqDTOV2" />
-          <item index="26" class="java.lang.String" itemvalue="SingleCharacterLexer" />
-          <item index="27" class="java.lang.String" itemvalue="BookingRequestDTOV2" />
-          <item index="28" class="java.lang.String" itemvalue="Future.successful" />
-          <item index="29" class="java.lang.String" itemvalue="char" />
+          <item index="0" class="java.lang.String" itemvalue="JavaSourceCodeFile2" />
+          <item index="1" class="java.lang.String" itemvalue="byte" />
+          <item index="2" class="java.lang.String" itemvalue="by" />
+          <item index="3" class="java.lang.String" itemvalue="_net1_svc1_" />
+          <item index="4" class="java.lang.String" itemvalue="getAllUpcomingBookings2" />
+          <item index="5" class="java.lang.String" itemvalue="Artifact" />
+          <item index="6" class="java.lang.String" itemvalue="NewCXABookingDTOV2" />
+          <item index="7" class="java.lang.String" itemvalue="timeZone=&quot;gmt&quot;" />
+          <item index="8" class="java.lang.String" itemvalue="Resource" />
+          <item index="9" class="java.lang.String" itemvalue="CharBuffer" />
+          <item index="10" class="java.lang.String" itemvalue="CharBuffer.wrap" />
+          <item index="11" class="java.lang.String" itemvalue="CharBufferUtils" />
+          <item index="12" class="java.lang.String" itemvalue="numCharsMatched" />
+          <item index="13" class="java.lang.String" itemvalue="CSVColumnValueMatcherSpike" />
+          <item index="14" class="java.lang.String" itemvalue="MatchResult2 result = " />
+          <item index="15" class="java.lang.String" itemvalue="assertTrue(result.wasIncomplete());" />
+          <item index="16" class="java.lang.String" itemvalue="result" />
+          <item index="17" class="java.lang.String" itemvalue="getParsedValue()" />
+          <item index="18" class="java.lang.String" itemvalue="result.getNumberOfCharactersMatched()" />
+          <item index="19" class="java.lang.String" itemvalue="getErrorMessage()" />
+          <item index="20" class="java.lang.String" itemvalue="getMatchIndexOnError()" />
+          <item index="21" class="java.lang.String" itemvalue="assertTrue(result.isNoMatch());" />
+          <item index="22" class="java.lang.String" itemvalue=", numCharsMatched);" />
+          <item index="23" class="java.lang.String" itemvalue="result.getErrorMessage()" />
+          <item index="24" class="java.lang.String" itemvalue="result.getMatchIndexOnError()" />
+          <item index="25" class="java.lang.String" itemvalue="CSVColumnValueMatcher2 result = matcher.match" />
+          <item index="26" class="java.lang.String" itemvalue="MatchResult2" />
+          <item index="27" class="java.lang.String" itemvalue="MatchResult2 result " />
+          <item index="28" class="java.lang.String" itemvalue="MatchResult result = matcher.match(buf, result" />
+          <item index="29" class="java.lang.String" itemvalue="public static" />
         </list>
       </value>
     </option>
     <option name="RECENT_DIR_STRINGS">
       <value>
-        <list size="4">
+        <list size="8">
           <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/projects/Connector2/clients/cpt-client/src/main/scala/com/zeebox/social/kvstore" />
           <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/projects/Connector2Commons/scala-io-ext" />
           <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/projects/elasticdb/tests" />
           <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/projects/ZeeboxCore/netty/src/main/scala/com/zeebox/core/netty" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/projects/ZeeboxCore/http/http-server/src/main/scala/com/zeebox/core/monitoring/events" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/projects/Connector2/zconnect/zconnect-server/src/main/scala/com/zeebox/social/zconnect/services" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/projects/Connector2/bookings/bookings-server/src/main/scala/com/zeebox/social/bookings" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/projects/ZeeboxCore/testing/src/test/scala/com/zeebox/core/monitoring" />
         </list>
       </value>
     </option>
@@ -211,58 +215,70 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/projects/jc" />
-        <option value="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" />
-        <option value="$USER_HOME$/projects/front/front.ipr" />
-        <option value="$USER_HOME$/projects/elasticdb/elasticdb.ipr" />
-        <option value="$USER_HOME$/projects/zCassandra" />
-        <option value="$USER_HOME$/projects/StreamParser/stream-parser.ipr" />
+        <option value="$USER_HOME$/projects/Connector2/auth" />
         <option value="$USER_HOME$/projects/Connector2/bookings" />
-        <option value="$USER_HOME$/projects/Connector2/zconnect" />
-        <option value="$USER_HOME$/projects/ZeeboxCore" />
-        <option value="$USER_HOME$/projects/Connector2" />
         <option value="$USER_HOME$/projects/ReminderService" />
-        <option value="$USER_HOME$/projects/Connector2/reminderService" />
-        <option value="$USER_HOME$/projects/benchmark" />
+        <option value="$USER_HOME$/projects/Connector2/socialgraph" />
+        <option value="$USER_HOME$/projects/Connector2/apt" />
+        <option value="$USER_HOME$/projects/Connector2/monitoring" />
+        <option value="$USER_HOME$/projects/Connector2/mailbox" />
+        <option value="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" />
+        <option value="$USER_HOME$/projects/Connector2/zconnect" />
         <option value="$USER_HOME$/projects/SandboxMosaic" />
-        <option value="$USER_HOME$/projects/threadtesting-mosaic" />
+        <option value="$USER_HOME$/projects/jc" />
         <option value="$USER_HOME$/projects/Connector2/cpt" />
-        <option value="$USER_HOME$/projects/elasticdb" />
-        <option value="$USER_HOME$/projects/Connector2Commons" />
-        <option value="$USER_HOME$/projects/Connector2/clients/cpt-client" />
-        <option value="$USER_HOME$/projects/EPG" />
-        <option value="$USER_HOME$/projects/spikes/facebook-opengraph" />
+        <option value="$USER_HOME$/projects/Connector2/socialcommon" />
+        <option value="$USER_HOME$/projects/Connector2/commons" />
+        <option value="$USER_HOME$/projects/Connector2/clients" />
+        <option value="$USER_HOME$/projects/Connector2/notifications" />
+        <option value="$USER_HOME$/projects/Connector2" />
+        <option value="$USER_HOME$/projects/Connector2/zeebox-maven-plugin" />
+        <option value="$USER_HOME$/projects/djar" />
+        <option value="$USER_HOME$/projects/maven/maven-deploy-plugin-2.7" />
+        <option value="$USER_HOME$/projects/maven/maven-zeebox-plugin" />
+        <option value="$USER_HOME$/projects/Connector2/t/s/maven-stage-plugin" />
+        <option value="$USER_HOME$/projects/elasticdb/elasticdb.ipr" />
+        <option value="$USER_HOME$/projects/r2/r2.ipr" />
+        <option value="$USER_HOME$/projects/logbook/logbook.ipr" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/projects/Connector2/bookings" />
-        <option value="$USER_HOME$/projects/StreamParser/stream-parser.ipr" />
+        <option value="$USER_HOME$/projects/jc" />
+        <option value="$USER_HOME$/projects/SandboxMosaic" />
+        <option value="$USER_HOME$/projects/Connector2/zconnect" />
         <option value="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" />
+        <option value="$USER_HOME$/projects/Connector2/apt" />
+        <option value="$USER_HOME$/projects/Connector2/bookings" />
       </list>
     </option>
     <option name="names">
       <map>
-        <entry key="$USER_HOME$/projects/Connector2" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/apt" value="" />
         <entry key="$USER_HOME$/projects/Connector2/bookings" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/clients/cpt-client" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/cpt" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/reminderService" value="" />
-        <entry key="$USER_HOME$/projects/Connector2Commons" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/clients" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/commons" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/mailbox" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/monitoring" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/notifications" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/socialcommon" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/socialgraph" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/t/s/maven-stage-plugin" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/zconnect" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/zeebox-maven-plugin" value="" />
         <entry key="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" value="" />
         <entry key="$USER_HOME$/projects/ReminderService" value="" />
         <entry key="$USER_HOME$/projects/SandboxMosaic" value="" />
-        <entry key="$USER_HOME$/projects/StreamParser/stream-parser.ipr" value="" />
-        <entry key="$USER_HOME$/projects/benchmark" value="" />
-        <entry key="$USER_HOME$/projects/elasticdb" value="" />
+        <entry key="$USER_HOME$/projects/djar" value="" />
         <entry key="$USER_HOME$/projects/elasticdb/elasticdb.ipr" value="" />
-        <entry key="$USER_HOME$/projects/front/front.ipr" value="" />
-        <entry key="$USER_HOME$/projects/spikes/facebook-opengraph" value="" />
-        <entry key="$USER_HOME$/projects/threadtesting-mosaic" value="" />
-        <entry key="$USER_HOME$/projects/zCassandra" value="" />
+        <entry key="$USER_HOME$/projects/jc" value="" />
+        <entry key="$USER_HOME$/projects/logbook/logbook.ipr" value="" />
+        <entry key="$USER_HOME$/projects/maven/maven-deploy-plugin-2.7" value="" />
+        <entry key="$USER_HOME$/projects/maven/maven-zeebox-plugin" value="" />
+        <entry key="$USER_HOME$/projects/r2/r2.ipr" value="" />
       </map>
     </option>
-    <option name="lastPath" value="$USER_HOME$/projects/jc" />
+    <option name="lastPath" value="$USER_HOME$/projects/Connector2/auth" />
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
@@ -326,7 +342,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1372259541082" />
+    <option name="LAST_TIME_CHECKED" value="1376731165203" />
     <option name="LAST_BUILD_CHECKED" value="IC-129.713" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
@@ -375,21 +391,23 @@
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="0" />
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Singleton" />
+          </list>
         </value>
       </option>
     </recent_templates>
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
 </application>

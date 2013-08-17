@@ -76,3 +76,8 @@ if [ -f /usr/local/git/contrib/completion/git-completion.bash ]; then
 
   PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 fi
+
+if [ -f ~/.secure ]; then
+  . ~/.secure
+fi
+

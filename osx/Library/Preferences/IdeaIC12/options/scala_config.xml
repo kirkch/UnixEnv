@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
-  <component name="ScalaApplicationSettings">
-    <option name="SPECIFY_TYPE_EXPLICITLY" value="true" />
-    <option name="INTRODUCE_LOCAL_CREATE_VARIABLE" value="false" />
-    <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="true" />
-  </component>
   <component name="TypeAwareHighlightingApplicationState">
     <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
   </component>
