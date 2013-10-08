@@ -3,15 +3,16 @@
   <component name="CommunityFileTypes" version="11">
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
     <extensionMap>
+      <mapping pattern="DEPENDENCIES" type="PLAIN_TEXT" />
       <mapping pattern="MAIN" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="meta" type="PLAIN_TEXT" />
       <mapping pattern="repositories" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="dependencies" type="PLAIN_TEXT" />
-      <mapping pattern="DEPENDENCIES" type="PLAIN_TEXT" />
       <mapping pattern="SketchPad" type="PLAIN_TEXT" />
       <mapping pattern="SkratchPad" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping ext="mappings" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="ReminderServiceClientFake" type="Scala" />
       <mapping ext="jspx" type="XML" />

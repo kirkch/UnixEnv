@@ -3,6 +3,7 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="sc.stable.alias.name" />
         <option value="sc.implicit.function.name" />
         <option value="sc.self.type.class.name.key" />
         <option value="sc.super.class.name" />

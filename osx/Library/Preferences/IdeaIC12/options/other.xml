@@ -83,80 +83,80 @@
     <option name="COMMENTS_ONLY" value="false" />
     <option name="STRING_LITERALS_ONLY" value="false" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="false" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'notifications-server'" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="s" />
-          <item index="1" class="java.lang.String" itemvalue="social" />
-          <item index="2" class="java.lang.String" itemvalue="c2comm" />
-          <item index="3" class="java.lang.String" itemvalue="log4j" />
-          <item index="4" class="java.lang.String" itemvalue="slf4j" />
-          <item index="5" class="java.lang.String" itemvalue="utf8String" />
-          <item index="6" class="java.lang.String" itemvalue="utf8string" />
-          <item index="7" class="java.lang.String" itemvalue="sys" />
-          <item index="8" class="java.lang.String" itemvalue="zeeboxcore" />
-          <item index="9" class="java.lang.String" itemvalue="cassandra-ext.version" />
-          <item index="10" class="java.lang.String" itemvalue="cassandra-ext" />
-          <item index="11" class="java.lang.String" itemvalue="client" />
-          <item index="12" class="java.lang.String" itemvalue="testing" />
-          <item index="13" class="java.lang.String" itemvalue="social-clients" />
-          <item index="14" class="java.lang.String" itemvalue="grey" />
-          <item index="15" class="java.lang.String" itemvalue="social-clie" />
-          <item index="16" class="java.lang.String" itemvalue="log" />
-          <item index="17" class="java.lang.String" itemvalue="akka" />
-          <item index="18" class="java.lang.String" itemvalue="lang" />
-          <item index="19" class="java.lang.String" itemvalue="scal" />
-          <item index="20" class="java.lang.String" itemvalue="httpcl" />
-          <item index="21" class="java.lang.String" itemvalue="http" />
-          <item index="22" class="java.lang.String" itemvalue="shap" />
-          <item index="23" class="java.lang.String" itemvalue="zeebox.core.commons" />
-          <item index="24" class="java.lang.String" itemvalue="snap" />
-          <item index="25" class="java.lang.String" itemvalue="snapshot" />
-          <item index="26" class="java.lang.String" itemvalue="cassandra-ex" />
-          <item index="27" class="java.lang.String" itemvalue="ning" />
-          <item index="28" class="java.lang.String" itemvalue="commons-code" />
-          <item index="29" class="java.lang.String" itemvalue="apt" />
+          <item index="0" class="java.lang.String" itemvalue="isEmpty" />
+          <item index="1" class="java.lang.String" itemvalue="doNothingSolutionHandlingCallback" />
+          <item index="2" class="java.lang.String" itemvalue="(defaultDoNothingWithSolutionGameboardCallback)" />
+          <item index="3" class="java.lang.String" itemvalue="(doNothingSolutionHandlingCallback)" />
+          <item index="4" class="java.lang.String" itemvalue="plug" />
+          <item index="5" class="java.lang.String" itemvalue="package" />
+          <item index="6" class="java.lang.String" itemvalue="state" />
+          <item index="7" class="java.lang.String" itemvalue="GameSquareState.EmptySquare" />
+          <item index="8" class="java.lang.String" itemvalue="GameSquareState(Bishop)" />
+          <item index="9" class="java.lang.String" itemvalue="assume" />
+          <item index="10" class="java.lang.String" itemvalue="divideAndConquer" />
+          <item index="11" class="java.lang.String" itemvalue="width * height" />
+          <item index="12" class="java.lang.String" itemvalue="width*height" />
+          <item index="13" class="java.lang.String" itemvalue="*" />
+          <item index="14" class="java.lang.String" itemvalue="encode" />
+          <item index="15" class="java.lang.String" itemvalue="object" />
+          <item index="16" class="java.lang.String" itemvalue="protected " />
+          <item index="17" class="java.lang.String" itemvalue="return" />
+          <item index="18" class="java.lang.String" itemvalue="it" />
+          <item index="19" class="java.lang.String" itemvalue="invokeall" />
+          <item index="20" class="java.lang.String" itemvalue="chall" />
+          <item index="21" class="java.lang.String" itemvalue="assert" />
+          <item index="22" class="java.lang.String" itemvalue="union" />
+          <item index="23" class="java.lang.String" itemvalue="added" />
+          <item index="24" class="java.lang.String" itemvalue="trend" />
+          <item index="25" class="java.lang.String" itemvalue="Set($elem, $left, $right)" />
+          <item index="26" class="java.lang.String" itemvalue="print" />
+          <item index="27" class="java.lang.String" itemvalue="delta" />
+          <item index="28" class="java.lang.String" itemvalue="Id" />
+          <item index="29" class="java.lang.String" itemvalue="Day" />
         </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="JavaSourceCodeFile2" />
-          <item index="1" class="java.lang.String" itemvalue="byte" />
-          <item index="2" class="java.lang.String" itemvalue="by" />
-          <item index="3" class="java.lang.String" itemvalue="_net1_svc1_" />
-          <item index="4" class="java.lang.String" itemvalue="getAllUpcomingBookings2" />
-          <item index="5" class="java.lang.String" itemvalue="Artifact" />
-          <item index="6" class="java.lang.String" itemvalue="NewCXABookingDTOV2" />
-          <item index="7" class="java.lang.String" itemvalue="timeZone=&quot;gmt&quot;" />
-          <item index="8" class="java.lang.String" itemvalue="Resource" />
-          <item index="9" class="java.lang.String" itemvalue="CharBuffer" />
-          <item index="10" class="java.lang.String" itemvalue="CharBuffer.wrap" />
-          <item index="11" class="java.lang.String" itemvalue="CharBufferUtils" />
-          <item index="12" class="java.lang.String" itemvalue="numCharsMatched" />
-          <item index="13" class="java.lang.String" itemvalue="CSVColumnValueMatcherSpike" />
-          <item index="14" class="java.lang.String" itemvalue="MatchResult2 result = " />
-          <item index="15" class="java.lang.String" itemvalue="assertTrue(result.wasIncomplete());" />
-          <item index="16" class="java.lang.String" itemvalue="result" />
-          <item index="17" class="java.lang.String" itemvalue="getParsedValue()" />
-          <item index="18" class="java.lang.String" itemvalue="result.getNumberOfCharactersMatched()" />
-          <item index="19" class="java.lang.String" itemvalue="getErrorMessage()" />
-          <item index="20" class="java.lang.String" itemvalue="getMatchIndexOnError()" />
-          <item index="21" class="java.lang.String" itemvalue="assertTrue(result.isNoMatch());" />
-          <item index="22" class="java.lang.String" itemvalue=", numCharsMatched);" />
-          <item index="23" class="java.lang.String" itemvalue="result.getErrorMessage()" />
-          <item index="24" class="java.lang.String" itemvalue="result.getMatchIndexOnError()" />
-          <item index="25" class="java.lang.String" itemvalue="CSVColumnValueMatcher2 result = matcher.match" />
-          <item index="26" class="java.lang.String" itemvalue="MatchResult2" />
-          <item index="27" class="java.lang.String" itemvalue="MatchResult2 result " />
-          <item index="28" class="java.lang.String" itemvalue="MatchResult result = matcher.match(buf, result" />
-          <item index="29" class="java.lang.String" itemvalue="public static" />
+          <item index="0" class="java.lang.String" itemvalue="getParsedValue()" />
+          <item index="1" class="java.lang.String" itemvalue="result.getNumberOfCharactersMatched()" />
+          <item index="2" class="java.lang.String" itemvalue="getErrorMessage()" />
+          <item index="3" class="java.lang.String" itemvalue="getMatchIndexOnError()" />
+          <item index="4" class="java.lang.String" itemvalue="assertTrue(result.isNoMatch());" />
+          <item index="5" class="java.lang.String" itemvalue=", numCharsMatched);" />
+          <item index="6" class="java.lang.String" itemvalue="result.getErrorMessage()" />
+          <item index="7" class="java.lang.String" itemvalue="result.getMatchIndexOnError()" />
+          <item index="8" class="java.lang.String" itemvalue="CSVColumnValueMatcher2 result = matcher.match" />
+          <item index="9" class="java.lang.String" itemvalue="MatchResult2" />
+          <item index="10" class="java.lang.String" itemvalue="MatchResult2 result " />
+          <item index="11" class="java.lang.String" itemvalue="MatchResult result = matcher.match(buf, result" />
+          <item index="12" class="java.lang.String" itemvalue="public static" />
+          <item index="13" class="java.lang.String" itemvalue="," />
+          <item index="14" class="java.lang.String" itemvalue=", " />
+          <item index="15" class="java.lang.String" itemvalue="push" />
+          <item index="16" class="java.lang.String" itemvalue="JUnitPro" />
+          <item index="17" class="java.lang.String" itemvalue="&lt;/li&gt;" />
+          <item index="18" class="java.lang.String" itemvalue="JUnitExt" />
+          <item index="19" class="java.lang.String" itemvalue="Message.droppableMessage" />
+          <item index="20" class="java.lang.String" itemvalue="newEntry, isDroppableMessage" />
+          <item index="21" class="java.lang.String" itemvalue="new Message" />
+          <item index="22" class="java.lang.String" itemvalue="getFailure" />
+          <item index="23" class="java.lang.String" itemvalue="PROMISES" />
+          <item index="24" class="java.lang.String" itemvalue="OnFailure" />
+          <item index="25" class="java.lang.String" itemvalue="EmptySquare" />
+          <item index="26" class="java.lang.String" itemvalue="Bishop" />
+          <item index="27" class="java.lang.String" itemvalue="assumeThat" />
+          <item index="28" class="java.lang.String" itemvalue="assumeTrue" />
+          <item index="29" class="java.lang.String" itemvalue="Name" />
         </list>
       </value>
     </option>
@@ -215,80 +215,78 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/projects/Connector2/auth" />
-        <option value="$USER_HOME$/projects/Connector2/bookings" />
-        <option value="$USER_HOME$/projects/ReminderService" />
-        <option value="$USER_HOME$/projects/Connector2/socialgraph" />
-        <option value="$USER_HOME$/projects/Connector2/apt" />
-        <option value="$USER_HOME$/projects/Connector2/monitoring" />
-        <option value="$USER_HOME$/projects/Connector2/mailbox" />
-        <option value="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" />
         <option value="$USER_HOME$/projects/Connector2/zconnect" />
+        <option value="$USER_HOME$/projects/spikes/chess" />
         <option value="$USER_HOME$/projects/SandboxMosaic" />
-        <option value="$USER_HOME$/projects/jc" />
-        <option value="$USER_HOME$/projects/Connector2/cpt" />
-        <option value="$USER_HOME$/projects/Connector2/socialcommon" />
-        <option value="$USER_HOME$/projects/Connector2/commons" />
-        <option value="$USER_HOME$/projects/Connector2/clients" />
-        <option value="$USER_HOME$/projects/Connector2/notifications" />
-        <option value="$USER_HOME$/projects/Connector2" />
-        <option value="$USER_HOME$/projects/Connector2/zeebox-maven-plugin" />
-        <option value="$USER_HOME$/projects/djar" />
-        <option value="$USER_HOME$/projects/maven/maven-deploy-plugin-2.7" />
-        <option value="$USER_HOME$/projects/maven/maven-zeebox-plugin" />
-        <option value="$USER_HOME$/projects/Connector2/t/s/maven-stage-plugin" />
-        <option value="$USER_HOME$/projects/elasticdb/elasticdb.ipr" />
-        <option value="$USER_HOME$/projects/r2/r2.ipr" />
+        <option value="$USER_HOME$/projects/Connector2/bookings" />
         <option value="$USER_HOME$/projects/logbook/logbook.ipr" />
+        <option value="$USER_HOME$/projects/spikes/scala-course/objsets" />
+        <option value="$USER_HOME$/projects/spikes/scala-course/funsets" />
+        <option value="$USER_HOME$/projects/Connector2/notifications" />
+        <option value="$USER_HOME$/projects/spikes/scala-course/recfun" />
+        <option value="$USER_HOME$/projects/spikes/scala-course/examples" />
+        <option value="$USER_HOME$/projects/junitpro" />
+        <option value="$USER_HOME$/projects/jc" />
+        <option value="$USER_HOME$/projects/spikes/neo4j-spike" />
+        <option value="$USER_HOME$/projects/spikes/activemq" />
+        <option value="$USER_HOME$/projects/spikes/neo-tooling/write-test" />
+        <option value="$USER_HOME$/projects/Connector2/cpt" />
+        <option value="$USER_HOME$/projects/elasticdb/elasticdb.ipr" />
+        <option value="$USER_HOME$/projects/threadtesting-mosaic" />
+        <option value="$USER_HOME$/projects/Connector2/commons" />
+        <option value="$USER_HOME$/projects/Connector2/mailbox" />
+        <option value="$USER_HOME$/projects/java-allocation-instrumenter-read-only/java-allocation-instrumenter" />
+        <option value="$USER_HOME$/projects/Connector2/zgateway" />
+        <option value="$USER_HOME$/projects/auction" />
+        <option value="$USER_HOME$/projects/ReminderService" />
+        <option value="$USER_HOME$/projects/Connector2/auth" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/projects/jc" />
+        <option value="$USER_HOME$/projects/logbook/logbook.ipr" />
         <option value="$USER_HOME$/projects/SandboxMosaic" />
-        <option value="$USER_HOME$/projects/Connector2/zconnect" />
-        <option value="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" />
-        <option value="$USER_HOME$/projects/Connector2/apt" />
-        <option value="$USER_HOME$/projects/Connector2/bookings" />
       </list>
     </option>
     <option name="names">
       <map>
-        <entry key="$USER_HOME$/projects/Connector2/apt" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/auth" value="" />
         <entry key="$USER_HOME$/projects/Connector2/bookings" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/clients" value="" />
         <entry key="$USER_HOME$/projects/Connector2/commons" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/cpt" value="" />
         <entry key="$USER_HOME$/projects/Connector2/mailbox" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/monitoring" value="" />
         <entry key="$USER_HOME$/projects/Connector2/notifications" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/socialcommon" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/socialgraph" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/t/s/maven-stage-plugin" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/zconnect" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/zeebox-maven-plugin" value="" />
-        <entry key="$USER_HOME$/projects/JUnit-Hammer/ju-nit--hammer.ipr" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/zgateway" value="" />
         <entry key="$USER_HOME$/projects/ReminderService" value="" />
         <entry key="$USER_HOME$/projects/SandboxMosaic" value="" />
-        <entry key="$USER_HOME$/projects/djar" value="" />
+        <entry key="$USER_HOME$/projects/auction" value="" />
         <entry key="$USER_HOME$/projects/elasticdb/elasticdb.ipr" value="" />
+        <entry key="$USER_HOME$/projects/java-allocation-instrumenter-read-only/java-allocation-instrumenter" value="" />
         <entry key="$USER_HOME$/projects/jc" value="" />
+        <entry key="$USER_HOME$/projects/junitpro" value="" />
         <entry key="$USER_HOME$/projects/logbook/logbook.ipr" value="" />
-        <entry key="$USER_HOME$/projects/maven/maven-deploy-plugin-2.7" value="" />
-        <entry key="$USER_HOME$/projects/maven/maven-zeebox-plugin" value="" />
-        <entry key="$USER_HOME$/projects/r2/r2.ipr" value="" />
+        <entry key="$USER_HOME$/projects/spikes/neo4j-spike" value="" />
+        <entry key="$USER_HOME$/projects/spikes/scala-course/examples" value="" />
+        <entry key="$USER_HOME$/projects/spikes/scala-course/funsets" value="" />
+        <entry key="$USER_HOME$/projects/spikes/scala-course/objsets" value="" />
+        <entry key="$USER_HOME$/projects/spikes/scala-course/recfun" value="" />
+        <entry key="$USER_HOME$/projects/threadtesting-mosaic" value="" />
       </map>
     </option>
-    <option name="lastPath" value="$USER_HOME$/projects/Connector2/auth" />
+    <option name="lastPath" value="$USER_HOME$/projects/Connector2/zconnect" />
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
   </component>
   <component name="SelectProjectTemplateSettings">
-    <option name="LAST_TEMPLATE" value="Java/Java Module" />
+    <option name="EXPERT_MODE" value="true" />
+    <option name="LAST_TEMPLATE" value="Other/Scala Module" />
   </component>
   <component name="SystemNotifications">
     <option name="NOTIFICATIONS">
@@ -342,8 +340,8 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1376731165203" />
-    <option name="LAST_BUILD_CHECKED" value="IC-129.713" />
+    <option name="LAST_TIME_CHECKED" value="1381219357588" />
+    <option name="LAST_BUILD_CHECKED" value="IC-129.1328" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
   <component name="XDebuggerSettings">

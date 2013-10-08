@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
-  <component name="UsagesStatistic" time="1376114612738" allowed="true" show-notification="false" period="weekly">
+  <component name="UsagesStatistic" time="1380724898440" allowed="true" show-notification="false" period="weekly">
     <group id="Look and Feel" priority="0.0" data="Mac OS X - Default=1" />
     <group id="compiler" priority="0.0" data="external_build=1" />
-    <group id="features counts" priority="0.0" data="execute.ScalaScriptConsoleRunConfiguration.Run=1,execute.JUnit.Run=2707,execute.Application.Run=204,execute.JUnit.Debug=88,CreateFile.CreateFileAction=33,execute.ScalaTestRunConfiguration.Run=1,execute.Specs2RunConfiguration.Run=2" />
-    <group id="file-type" priority="0.0" data="XML=30,Scala=14,HTML=10,PLAIN_TEXT=27,JAVA=18,IDEA_MODULE=30,Properties=15,UNKNOWN=30,JavaScript files (syntax highlighting only)=3,Native=3,Images=2,IDEA_WORKSPACE=6,IDEA_PROJECT=6,ARCHIVE=6,CSS files (syntax highlighting only)=1,CLASS=6,Markdown=13" />
-    <group id="frameworks" priority="0.0" data="scala=14" />
-    <group id="language-level" priority="0.0" data="JDK_1_6=23,JDK_1_5=6,JDK_1_7=5" />
+    <group id="features counts" priority="0.0" data="execute.ScalaScriptConsoleRunConfiguration.Run=1,execute.JUnit.Run=3887,execute.Application.Run=545,execute.JUnit.Debug=138,CreateFile.CreateFileAction=42,execute.ScalaTestRunConfiguration.Run=81,execute.Specs2RunConfiguration.Run=2" />
+    <group id="file-type" priority="0.0" data="XML=48,Scala=26,HTML=11,PLAIN_TEXT=41,JAVA=23,IDEA_MODULE=48,Properties=26,UNKNOWN=48,JavaScript files (syntax highlighting only)=6,Native=3,Images=3,IDEA_WORKSPACE=6,IDEA_PROJECT=6,ARCHIVE=11,CSS files (syntax highlighting only)=3,CLASS=13,Markdown=20,Eclipse=4" />
+    <group id="frameworks" priority="0.0" data="scala=27" />
+    <group id="language-level" priority="0.0" data="JDK_1_6=37,JDK_1_5=6,JDK_1_7=11" />
     <group id="libraries" priority="0.0" data="groovy=8" />
-    <group id="module type" priority="0.0" data="JAVA_MODULE=30" />
+    <group id="module type" priority="0.0" data="JAVA_MODULE=48" />
     <group id="non-bundled-plugins" priority="0.0" data="org.intellij.scala=1,com.intellij=1,net.nicoulaj.idea.markdown=1,Axis TCP Monitor Plugin=1" />
-    <group id="productivity" priority="0.0" data="ui.tree.speedsearch=10,navigation.popup.class=556,editing.completion.variable.name=15684,editing.select.word=4680,editing.completion.second.basic=101,codeassists.highlight.return=578,codeassists.comment.line=1002,refactoring.introduceVariable=109,codeassists.quickjavadoc=2,editing.completion.camelHumps=179,navigation.goto.declaration=2271,editing.completion.global.member.name=52,editing.completion.basic=3925,navigation.popup.camelprefix=185,editing.completion.finishByControlEnter=2458,codeassists.highlight.implements=132,codeassists.highlight.throws=45,refactoring.rename=63,codeassists.overrideimplement=119,refactoring.introduceVariable.incompleteStatement=16,navigation.popup.file=16,editing.completion.finishByDotEtc=16,navigation.goto.usages=5,find.recent.search=1,navigation.goto.implementation=2,navigation.popup.wildcards=7" />
-    <group id="run-configuration-type" priority="0.0" data="JUnit=4" />
-    <group id="run-configuration-type-temp" priority="0.0" data="Application=8,ScalaScriptConsoleRunConfiguration=2,JUnit=11,ScalaTestRunConfiguration=0,Specs2RunConfiguration=2" />
-    <group id="vcs" priority="0.0" data="Git=22,svn=2" />
+    <group id="productivity" priority="0.0" data="ui.tree.speedsearch=10,navigation.popup.class=690,editing.completion.variable.name=21868,editing.select.word=7031,editing.completion.second.basic=131,codeassists.highlight.return=788,codeassists.comment.line=1614,refactoring.introduceVariable=136,codeassists.quickjavadoc=2,editing.completion.camelHumps=294,navigation.goto.declaration=2890,editing.completion.global.member.name=62,editing.completion.basic=5846,navigation.popup.camelprefix=228,editing.completion.finishByControlEnter=3737,codeassists.highlight.implements=151,codeassists.highlight.throws=68,refactoring.rename=72,codeassists.overrideimplement=157,refactoring.introduceVariable.incompleteStatement=20,navigation.popup.file=23,editing.completion.finishByDotEtc=19,navigation.goto.usages=5,find.recent.search=1,navigation.goto.implementation=2,navigation.popup.wildcards=7,refactoring.move.moveInner=1" />
+    <group id="run-configuration-type" priority="0.0" data="JUnit=9,Application=1" />
+    <group id="run-configuration-type-temp" priority="0.0" data="Application=10,ScalaScriptConsoleRunConfiguration=2,JUnit=15,ScalaTestRunConfiguration=5,Specs2RunConfiguration=2" />
+    <group id="vcs" priority="0.0" data="Git=32,svn=4" />
   </component>
 </application>
 
