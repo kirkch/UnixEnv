@@ -84,79 +84,79 @@
     <option name="STRING_LITERALS_ONLY" value="false" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
     <option name="REGULAR_EXPRESSIONS" value="false" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="chall" />
-          <item index="1" class="java.lang.String" itemvalue="assert" />
-          <item index="2" class="java.lang.String" itemvalue="union" />
-          <item index="3" class="java.lang.String" itemvalue="added" />
-          <item index="4" class="java.lang.String" itemvalue="trend" />
-          <item index="5" class="java.lang.String" itemvalue="Set($elem, $left, $right)" />
-          <item index="6" class="java.lang.String" itemvalue="print" />
-          <item index="7" class="java.lang.String" itemvalue="delta" />
-          <item index="8" class="java.lang.String" itemvalue="Id" />
-          <item index="9" class="java.lang.String" itemvalue="Day" />
-          <item index="10" class="java.lang.String" itemvalue="emptymap" />
-          <item index="11" class="java.lang.String" itemvalue="NilL" />
-          <item index="12" class="java.lang.String" itemvalue="remote" />
-          <item index="13" class="java.lang.String" itemvalue="java.util.concurrent" />
-          <item index="14" class="java.lang.String" itemvalue="sleepTime" />
-          <item index="15" class="java.lang.String" itemvalue="sendmessage" />
-          <item index="16" class="java.lang.String" itemvalue="newCachedThreadPool" />
-          <item index="17" class="java.lang.String" itemvalue="Function" />
-          <item index="18" class="java.lang.String" itemvalue="map" />
-          <item index="19" class="java.lang.String" itemvalue="CollectFirst" />
-          <item index="20" class="java.lang.String" itemvalue="MapSingleValue" />
-          <item index="21" class="java.lang.String" itemvalue="mess" />
-          <item index="22" class="java.lang.String" itemvalue="sqsmessage" />
-          <item index="23" class="java.lang.String" itemvalue="ama" />
-          <item index="24" class="java.lang.String" itemvalue="breaker" />
-          <item index="25" class="java.lang.String" itemvalue="circuit" />
-          <item index="26" class="java.lang.String" itemvalue="doJobMethod" />
-          <item index="27" class="java.lang.String" itemvalue="RetryFuture" />
-          <item index="28" class="java.lang.String" itemvalue="actor" />
-          <item index="29" class="java.lang.String" itemvalue="ActorSystem" />
+          <item index="0" class="java.lang.String" itemvalue="FutureNbl.successful(v.length())" />
+          <item index="1" class="java.lang.String" itemvalue="Try&lt;Integer&gt;" />
+          <item index="2" class="java.lang.String" itemvalue="CompletedCallback" />
+          <item index="3" class="java.lang.String" itemvalue="FutureNbl.successful(&quot;meadow&quot;)" />
+          <item index="4" class="java.lang.String" itemvalue="handlemap" />
+          <item index="5" class="java.lang.String" itemvalue="completeWithResultNbl" />
+          <item index="6" class="java.lang.String" itemvalue="flagmapres" />
+          <item index="7" class="java.lang.String" itemvalue="onresult" />
+          <item index="8" class="java.lang.String" itemvalue="handleFlatMapFailure" />
+          <item index="9" class="java.lang.String" itemvalue="flatMapFailure" />
+          <item index="10" class="java.lang.String" itemvalue="flatrecov" />
+          <item index="11" class="java.lang.String" itemvalue="flatmap" />
+          <item index="12" class="java.lang.String" itemvalue="mapfailure" />
+          <item index="13" class="java.lang.String" itemvalue="recover" />
+          <item index="14" class="java.lang.String" itemvalue="async" />
+          <item index="15" class="java.lang.String" itemvalue="lazyQueueRejectLogURLFetcher" />
+          <item index="16" class="java.lang.String" itemvalue="jsmap" />
+          <item index="17" class="java.lang.String" itemvalue="convertTo" />
+          <item index="18" class="java.lang.String" itemvalue="givenPromise_replaceNull_expectUncompletedFuture" />
+          <item index="19" class="java.lang.String" itemvalue="completewith" />
+          <item index="20" class="java.lang.String" itemvalue="reqc" />
+          <item index="21" class="java.lang.String" itemvalue="status" />
+          <item index="22" class="java.lang.String" itemvalue="upload" />
+          <item index="23" class="java.lang.String" itemvalue="^io$" />
+          <item index="24" class="java.lang.String" itemvalue=".getValue()" />
+          <item index="25" class="java.lang.String" itemvalue="copy" />
+          <item index="26" class="java.lang.String" itemvalue="lock" />
+          <item index="27" class="java.lang.String" itemvalue="getResultNoBlock" />
+          <item index="28" class="java.lang.String" itemvalue="resourceHandler" />
+          <item index="29" class="java.lang.String" itemvalue="children" />
         </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="getMatchIndexOnError()" />
-          <item index="1" class="java.lang.String" itemvalue="assertTrue(result.isNoMatch());" />
-          <item index="2" class="java.lang.String" itemvalue=", numCharsMatched);" />
-          <item index="3" class="java.lang.String" itemvalue="result.getErrorMessage()" />
-          <item index="4" class="java.lang.String" itemvalue="result.getMatchIndexOnError()" />
-          <item index="5" class="java.lang.String" itemvalue="CSVColumnValueMatcher2 result = matcher.match" />
-          <item index="6" class="java.lang.String" itemvalue="MatchResult2" />
-          <item index="7" class="java.lang.String" itemvalue="MatchResult2 result " />
-          <item index="8" class="java.lang.String" itemvalue="MatchResult result = matcher.match(buf, result" />
-          <item index="9" class="java.lang.String" itemvalue="public static" />
-          <item index="10" class="java.lang.String" itemvalue="," />
-          <item index="11" class="java.lang.String" itemvalue=", " />
-          <item index="12" class="java.lang.String" itemvalue="push" />
-          <item index="13" class="java.lang.String" itemvalue="JUnitPro" />
-          <item index="14" class="java.lang.String" itemvalue="&lt;/li&gt;" />
-          <item index="15" class="java.lang.String" itemvalue="JUnitExt" />
-          <item index="16" class="java.lang.String" itemvalue="Message.droppableMessage" />
-          <item index="17" class="java.lang.String" itemvalue="newEntry, isDroppableMessage" />
-          <item index="18" class="java.lang.String" itemvalue="new Message" />
-          <item index="19" class="java.lang.String" itemvalue="getFailure" />
-          <item index="20" class="java.lang.String" itemvalue="PROMISES" />
-          <item index="21" class="java.lang.String" itemvalue="OnFailure" />
-          <item index="22" class="java.lang.String" itemvalue="EmptySquare" />
-          <item index="23" class="java.lang.String" itemvalue="Bishop" />
-          <item index="24" class="java.lang.String" itemvalue="assumeThat" />
-          <item index="25" class="java.lang.String" itemvalue="assumeTrue" />
-          <item index="26" class="java.lang.String" itemvalue="Name" />
-          <item index="27" class="java.lang.String" itemvalue="mapSingleValue" />
-          <item index="28" class="java.lang.String" itemvalue="fetchFirstMatch" />
-          <item index="29" class="java.lang.String" itemvalue="ExponentialBackoffFuture" />
+          <item index="0" class="java.lang.String" itemvalue="JUnitPro" />
+          <item index="1" class="java.lang.String" itemvalue="&lt;/li&gt;" />
+          <item index="2" class="java.lang.String" itemvalue="JUnitExt" />
+          <item index="3" class="java.lang.String" itemvalue="Message.droppableMessage" />
+          <item index="4" class="java.lang.String" itemvalue="newEntry, isDroppableMessage" />
+          <item index="5" class="java.lang.String" itemvalue="new Message" />
+          <item index="6" class="java.lang.String" itemvalue="getFailure" />
+          <item index="7" class="java.lang.String" itemvalue="PROMISES" />
+          <item index="8" class="java.lang.String" itemvalue="OnFailure" />
+          <item index="9" class="java.lang.String" itemvalue="EmptySquare" />
+          <item index="10" class="java.lang.String" itemvalue="Bishop" />
+          <item index="11" class="java.lang.String" itemvalue="assumeThat" />
+          <item index="12" class="java.lang.String" itemvalue="assumeTrue" />
+          <item index="13" class="java.lang.String" itemvalue="Name" />
+          <item index="14" class="java.lang.String" itemvalue="mapSingleValue" />
+          <item index="15" class="java.lang.String" itemvalue="fetchFirstMatch" />
+          <item index="16" class="java.lang.String" itemvalue="ExponentialBackoffFuture" />
+          <item index="17" class="java.lang.String" itemvalue="CircuitBreakerFuture" />
+          <item index="18" class="java.lang.String" itemvalue="retry" />
+          <item index="19" class="java.lang.String" itemvalue="exponentialBackoff" />
+          <item index="20" class="java.lang.String" itemvalue="10 seconds" />
+          <item index="21" class="java.lang.String" itemvalue="InternalState&lt;Nullable&lt;T&gt;&gt;" />
+          <item index="22" class="java.lang.String" itemvalue="this" />
+          <item index="23" class="java.lang.String" itemvalue="FutureNbl" />
+          <item index="24" class="java.lang.String" itemvalue=";" />
+          <item index="25" class="java.lang.String" itemvalue="FutureNbl.successful(Nullable.createNullable(v.length()))" />
+          <item index="26" class="java.lang.String" itemvalue="TryNbl&lt;Integer&gt;" />
+          <item index="27" class="java.lang.String" itemvalue="CompletedCallbackNbl" />
+          <item index="28" class="java.lang.String" itemvalue="FutureNbl.successful(Nullable.createNullable(&quot;meadow&quot;))" />
+          <item index="29" class="java.lang.String" itemvalue=".getResultNoBlock().getValue()" />
         </list>
       </value>
     </option>
@@ -216,15 +216,19 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/projects/junitpro" />
-        <option value="$USER_HOME$/projects/SandboxMosaic" />
-        <option value="$USER_HOME$/projects/djar" />
-        <option value="$USER_HOME$/projects/ReminderService" />
-        <option value="$USER_HOME$/projects/Connector2" />
-        <option value="$USER_HOME$/projects/ZeeboxCore" />
-        <option value="$USER_HOME$/projects/spikes/chess" />
         <option value="$USER_HOME$/projects/Connector2/commons" />
+        <option value="$USER_HOME$/projects/spikes/scala-course/forcomp" />
+        <option value="$USER_HOME$/projects/ReminderService" />
+        <option value="$USER_HOME$/projects/SandboxMosaic" />
         <option value="$USER_HOME$/projects/logbook/logbook.ipr" />
+        <option value="$USER_HOME$/projects/Connector2/feeds" />
+        <option value="$USER_HOME$/projects/ZeeboxCore" />
+        <option value="$USER_HOME$/projects/Connector2/auth" />
+        <option value="$USER_HOME$/projects/spikes/scala-course/patmat" />
+        <option value="$USER_HOME$/projects/junitpro" />
+        <option value="$USER_HOME$/projects/djar" />
+        <option value="$USER_HOME$/projects/Connector2" />
+        <option value="$USER_HOME$/projects/spikes/chess" />
         <option value="$USER_HOME$/projects/Connector2/zconnect" />
         <option value="$USER_HOME$/projects/Connector2/bookings" />
         <option value="$USER_HOME$/projects/spikes/scala-course/objsets" />
@@ -237,44 +241,44 @@
         <option value="$USER_HOME$/projects/spikes/activemq" />
         <option value="$USER_HOME$/projects/spikes/neo-tooling/write-test" />
         <option value="$USER_HOME$/projects/Connector2/cpt" />
-        <option value="$USER_HOME$/projects/elasticdb/elasticdb.ipr" />
-        <option value="$USER_HOME$/projects/threadtesting-mosaic" />
-        <option value="$USER_HOME$/projects/Connector2/mailbox" />
-        <option value="$USER_HOME$/projects/java-allocation-instrumenter-read-only/java-allocation-instrumenter" />
       </list>
     </option>
     <option name="openPaths">
       <list>
         <option value="$USER_HOME$/projects/logbook/logbook.ipr" />
         <option value="$USER_HOME$/projects/SandboxMosaic" />
+        <option value="$USER_HOME$/projects/ReminderService" />
+        <option value="$USER_HOME$/projects/Connector2/commons" />
       </list>
     </option>
     <option name="names">
       <map>
         <entry key="$USER_HOME$/projects/Connector2" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/auth" value="" />
         <entry key="$USER_HOME$/projects/Connector2/bookings" value="" />
         <entry key="$USER_HOME$/projects/Connector2/commons" value="" />
         <entry key="$USER_HOME$/projects/Connector2/cpt" value="" />
-        <entry key="$USER_HOME$/projects/Connector2/mailbox" value="" />
+        <entry key="$USER_HOME$/projects/Connector2/feeds" value="" />
         <entry key="$USER_HOME$/projects/Connector2/notifications" value="" />
         <entry key="$USER_HOME$/projects/Connector2/zconnect" value="" />
         <entry key="$USER_HOME$/projects/ReminderService" value="" />
+        <entry key="$USER_HOME$/projects/SandboxMosaic" value="" />
         <entry key="$USER_HOME$/projects/ZeeboxCore" value="" />
         <entry key="$USER_HOME$/projects/djar" value="" />
-        <entry key="$USER_HOME$/projects/elasticdb/elasticdb.ipr" value="" />
-        <entry key="$USER_HOME$/projects/java-allocation-instrumenter-read-only/java-allocation-instrumenter" value="" />
         <entry key="$USER_HOME$/projects/jc" value="" />
+        <entry key="$USER_HOME$/projects/junitpro" value="" />
         <entry key="$USER_HOME$/projects/logbook/logbook.ipr" value="" />
         <entry key="$USER_HOME$/projects/spikes/chess" value="" />
         <entry key="$USER_HOME$/projects/spikes/neo4j-spike" value="" />
         <entry key="$USER_HOME$/projects/spikes/scala-course/examples" value="" />
+        <entry key="$USER_HOME$/projects/spikes/scala-course/forcomp" value="" />
         <entry key="$USER_HOME$/projects/spikes/scala-course/funsets" value="" />
         <entry key="$USER_HOME$/projects/spikes/scala-course/objsets" value="" />
+        <entry key="$USER_HOME$/projects/spikes/scala-course/patmat" value="" />
         <entry key="$USER_HOME$/projects/spikes/scala-course/recfun" value="" />
-        <entry key="$USER_HOME$/projects/threadtesting-mosaic" value="" />
       </map>
     </option>
-    <option name="lastPath" value="$USER_HOME$/projects/junitpro" />
+    <option name="lastPath" value="$USER_HOME$/projects/Connector2/commons" />
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
@@ -341,7 +345,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1381480577440" />
+    <option name="LAST_TIME_CHECKED" value="1382433997142" />
     <option name="LAST_BUILD_CHECKED" value="IC-129.1359" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
@@ -398,15 +402,15 @@
     </recent_templates>
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
 </application>

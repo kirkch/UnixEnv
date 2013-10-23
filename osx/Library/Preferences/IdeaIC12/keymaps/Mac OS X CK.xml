@@ -3,6 +3,9 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="control alt F4" />
   </action>
+  <action id="CompileProject">
+    <keyboard-shortcut first-keystroke="control B" />
+  </action>
   <action id="EditorChooseLookupItemReplace" />
   <action id="EditorIndentSelection" />
   <action id="EditorTab" />

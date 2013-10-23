@@ -7,9 +7,20 @@
       <project id="epg" values="groovy" />
       <project id="cpt-client" values="groovy" />
       <project id="socialgraph" values="groovy" />
+      <project id="facebook-opengraph-spike" values="groovy" />
       <project id="mailbox" values="groovy" />
       <project id="profanity" values="groovy" />
-      <project id="facebook-opengraph-spike" values="groovy" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="stream-parser" values="JUnit" />
+      <project id="junitpro" values="JUnit" />
+      <project id="mosaics" values="JUnit" />
+      <project id="apt" values="JUnit" />
+      <project id="logbook" values="JUnit" />
+      <project id="bookings" values="JUnit" />
+      <project id="chess" values="JUnit,Application" />
+      <project id="elasticdb" values="JUnit" />
+      <project id="jk" values="JUnit" />
     </group>
     <group name="language-level">
       <project id="stream-parser" values="JDK_1_7" />
@@ -19,10 +30,11 @@
       <project id="reminders" values="JDK_1_6" />
       <project id="djar" values="JDK_1_6" />
       <project id="objsets" values="JDK_1_7" />
+      <project id="forcomp" values="JDK_1_7" />
       <project id="ju-nit--hammer" values="JDK_1_5" />
       <project id="test" values="JDK_1_7,JDK_1_6" />
-      <project id="epg" values="JDK_1_6" />
       <project id="zconnect" values="JDK_1_6" />
+      <project id="epg" values="JDK_1_6" />
       <project id="ZeeboxCore" values="JDK_1_6" />
       <project id="chess" values="JDK_1_6" />
       <project id="social-common" values="JDK_1_6" />
@@ -31,108 +43,48 @@
       <project id="mosaics" values="JDK_1_6,JDK_1_7" />
       <project id="social" values="JDK_1_6" />
       <project id="commons" values="JDK_1_6" />
-      <project id="bookings" values="JDK_1_6" />
       <project id="zeebox-maven-plugin" values="JDK_1_6" />
+      <project id="bookings" values="JDK_1_6" />
       <project id="zgateway" values="JDK_1_6" />
-      <project id="maven-stage-plugin" values="JDK_1_6,JDK_1_5" />
       <project id="facebook-opengraph-spike" values="JDK_1_6" />
+      <project id="maven-stage-plugin" values="JDK_1_6,JDK_1_5" />
       <project id="junitpro" values="JDK_1_5,JDK_1_6" />
       <project id="monitoring" values="JDK_1_6" />
-      <project id="java-allocation-instrumenter-read-only" values="JDK_1_6" />
       <project id="funsets" values="JDK_1_7" />
+      <project id="java-allocation-instrumenter-read-only" values="JDK_1_6" />
       <project id="apt" values="JDK_1_6" />
       <project id="social-clients" values="JDK_1_6" />
-      <project id="logbook" values="JDK_1_6,JDK_1_7" />
+      <project id="logbook" values="JDK_1_7,JDK_1_6" />
       <project id="cpt" values="JDK_1_6" />
       <project id="cpt-client" values="JDK_1_6" />
       <project id="front" values="JDK_1_5" />
-      <project id="elasticdb" values="JDK_1_6" />
       <project id="socialgraph" values="JDK_1_6" />
       <project id="recfun" values="JDK_1_7" />
+      <project id="elasticdb" values="JDK_1_6" />
       <project id="neo4j-spike" values="JDK_1_7" />
       <project id="profanity" values="JDK_1_6" />
       <project id="maven-deploy-plugin" values="JDK_1_5,JDK_1_6" />
+      <project id="patmat" values="JDK_1_7" />
       <project id="benchmark" values="JDK_1_6" />
-      <project id="notifications" values="JDK_1_6" />
       <project id="java-allocation-instrumenter" values="JDK_1_6" />
+      <project id="notifications" values="JDK_1_6" />
       <project id="zCassandra" values="JDK_1_7" />
       <project id="r2" values="JDK_1_5" />
       <project id="examples" values="JDK_1_6" />
       <project id="maven-zeebox-plugin" values="JDK_1_6" />
       <project id="auth" values="JDK_1_6" />
     </group>
-    <group name="run-configuration-type">
-      <project id="stream-parser" values="JUnit" />
-      <project id="junitpro" values="JUnit" />
-      <project id="apt" values="JUnit" />
-      <project id="logbook" values="JUnit" />
-      <project id="chess" values="Application,JUnit" />
-      <project id="elasticdb" values="JUnit" />
-      <project id="jk" values="JUnit" />
-      <project id="mosaics" values="JUnit" />
-      <project id="bookings" values="JUnit" />
-    </group>
-    <group name="module type">
-      <project id="stream-parser" values="JAVA_MODULE" />
-      <project id="auction" values="JAVA_MODULE" />
-      <project id="feeds" values="JAVA_MODULE" />
-      <project id="threadtesting-mosaic" values="JAVA_MODULE" />
-      <project id="reminders" values="JAVA_MODULE" />
-      <project id="djar" values="JAVA_MODULE" />
-      <project id="objsets" values="JAVA_MODULE" />
-      <project id="ju-nit--hammer" values="JAVA_MODULE" />
-      <project id="test" values="JAVA_MODULE" />
-      <project id="epg" values="JAVA_MODULE" />
-      <project id="zconnect" values="JAVA_MODULE" />
-      <project id="ZeeboxCore" values="JAVA_MODULE" />
-      <project id="chess" values="JAVA_MODULE" />
-      <project id="social-common" values="JAVA_MODULE" />
-      <project id="mailbox" values="JAVA_MODULE" />
-      <project id="jk" values="JAVA_MODULE" />
-      <project id="mosaics" values="JAVA_MODULE" />
-      <project id="social" values="JAVA_MODULE" />
-      <project id="commons" values="JAVA_MODULE" />
-      <project id="bookings" values="JAVA_MODULE" />
-      <project id="zeebox-maven-plugin" values="JAVA_MODULE" />
-      <project id="zgateway" values="JAVA_MODULE" />
-      <project id="maven-stage-plugin" values="JAVA_MODULE" />
-      <project id="facebook-opengraph-spike" values="JAVA_MODULE" />
-      <project id="junitpro" values="JAVA_MODULE" />
-      <project id="monitoring" values="JAVA_MODULE" />
-      <project id="java-allocation-instrumenter-read-only" values="JAVA_MODULE" />
-      <project id="funsets" values="JAVA_MODULE" />
-      <project id="apt" values="JAVA_MODULE" />
-      <project id="social-clients" values="JAVA_MODULE" />
-      <project id="logbook" values="JAVA_MODULE" />
-      <project id="cpt" values="JAVA_MODULE" />
-      <project id="cpt-client" values="JAVA_MODULE" />
-      <project id="front" values="JAVA_MODULE" />
-      <project id="elasticdb" values="JAVA_MODULE" />
-      <project id="socialgraph" values="JAVA_MODULE" />
-      <project id="recfun" values="JAVA_MODULE" />
-      <project id="neo4j-spike" values="JAVA_MODULE" />
-      <project id="profanity" values="JAVA_MODULE" />
-      <project id="maven-deploy-plugin" values="JAVA_MODULE" />
-      <project id="benchmark" values="JAVA_MODULE" />
-      <project id="notifications" values="JAVA_MODULE" />
-      <project id="java-allocation-instrumenter" values="JAVA_MODULE" />
-      <project id="zCassandra" values="JAVA_MODULE" />
-      <project id="r2" values="JAVA_MODULE" />
-      <project id="examples" values="JAVA_MODULE" />
-      <project id="maven-zeebox-plugin" values="JAVA_MODULE" />
-      <project id="auth" values="JAVA_MODULE" />
-    </group>
     <group name="vcs">
       <project id="stream-parser" values="Git" />
-      <project id="feeds" values="Git" />
-      <project id="reminders" values="Git" />
       <project id="threadtesting-mosaic" values="Git" />
+      <project id="reminders" values="Git" />
+      <project id="feeds" values="Git" />
       <project id="djar" values="Git" />
       <project id="ju-nit--hammer" values="Git" />
-      <project id="zconnect" values="Git" />
       <project id="epg" values="Git" />
-      <project id="ZeeboxCore" values="Git" />
+      <project id="zconnect" values="Git" />
       <project id="chess" values="Git" />
+      <project id="ZeeboxCore" values="Git" />
       <project id="social-common" values="Git" />
       <project id="mailbox" values="Git" />
       <project id="jk" values="Git" />
@@ -147,28 +99,81 @@
       <project id="junitpro" values="Git" />
       <project id="monitoring" values="Git" />
       <project id="java-allocation-instrumenter-read-only" values="svn" />
-      <project id="social-clients" values="Git" />
       <project id="apt" values="Git" />
+      <project id="social-clients" values="Git" />
       <project id="logbook" values="Git" />
       <project id="cpt" values="Git" />
-      <project id="elasticdb" values="Git" />
       <project id="socialgraph" values="Git" />
+      <project id="elasticdb" values="Git" />
       <project id="profanity" values="Git" />
       <project id="maven-deploy-plugin" values="svn" />
       <project id="benchmark" values="Git" />
-      <project id="notifications" values="Git" />
       <project id="java-allocation-instrumenter" values="svn" />
+      <project id="notifications" values="Git" />
       <project id="zCassandra" values="Git" />
       <project id="auth" values="Git" />
     </group>
+    <group name="module type">
+      <project id="stream-parser" values="JAVA_MODULE" />
+      <project id="auction" values="JAVA_MODULE" />
+      <project id="feeds" values="JAVA_MODULE" />
+      <project id="threadtesting-mosaic" values="JAVA_MODULE" />
+      <project id="reminders" values="JAVA_MODULE" />
+      <project id="djar" values="JAVA_MODULE" />
+      <project id="objsets" values="JAVA_MODULE" />
+      <project id="forcomp" values="JAVA_MODULE" />
+      <project id="ju-nit--hammer" values="JAVA_MODULE" />
+      <project id="test" values="JAVA_MODULE" />
+      <project id="zconnect" values="JAVA_MODULE" />
+      <project id="epg" values="JAVA_MODULE" />
+      <project id="ZeeboxCore" values="JAVA_MODULE" />
+      <project id="chess" values="JAVA_MODULE" />
+      <project id="social-common" values="JAVA_MODULE" />
+      <project id="mailbox" values="JAVA_MODULE" />
+      <project id="jk" values="JAVA_MODULE" />
+      <project id="mosaics" values="JAVA_MODULE" />
+      <project id="social" values="JAVA_MODULE" />
+      <project id="commons" values="JAVA_MODULE" />
+      <project id="zeebox-maven-plugin" values="JAVA_MODULE" />
+      <project id="bookings" values="JAVA_MODULE" />
+      <project id="zgateway" values="JAVA_MODULE" />
+      <project id="facebook-opengraph-spike" values="JAVA_MODULE" />
+      <project id="maven-stage-plugin" values="JAVA_MODULE" />
+      <project id="junitpro" values="JAVA_MODULE" />
+      <project id="monitoring" values="JAVA_MODULE" />
+      <project id="funsets" values="JAVA_MODULE" />
+      <project id="java-allocation-instrumenter-read-only" values="JAVA_MODULE" />
+      <project id="apt" values="JAVA_MODULE" />
+      <project id="social-clients" values="JAVA_MODULE" />
+      <project id="logbook" values="JAVA_MODULE" />
+      <project id="cpt" values="JAVA_MODULE" />
+      <project id="cpt-client" values="JAVA_MODULE" />
+      <project id="front" values="JAVA_MODULE" />
+      <project id="socialgraph" values="JAVA_MODULE" />
+      <project id="recfun" values="JAVA_MODULE" />
+      <project id="elasticdb" values="JAVA_MODULE" />
+      <project id="neo4j-spike" values="JAVA_MODULE" />
+      <project id="profanity" values="JAVA_MODULE" />
+      <project id="maven-deploy-plugin" values="JAVA_MODULE" />
+      <project id="patmat" values="JAVA_MODULE" />
+      <project id="benchmark" values="JAVA_MODULE" />
+      <project id="java-allocation-instrumenter" values="JAVA_MODULE" />
+      <project id="notifications" values="JAVA_MODULE" />
+      <project id="zCassandra" values="JAVA_MODULE" />
+      <project id="r2" values="JAVA_MODULE" />
+      <project id="examples" values="JAVA_MODULE" />
+      <project id="maven-zeebox-plugin" values="JAVA_MODULE" />
+      <project id="auth" values="JAVA_MODULE" />
+    </group>
     <group name="frameworks">
-      <project id="feeds" values="scala" />
       <project id="reminders" values="scala" />
+      <project id="feeds" values="scala" />
       <project id="objsets" values="scala" />
-      <project id="zconnect" values="scala" />
+      <project id="forcomp" values="scala" />
       <project id="epg" values="scala" />
-      <project id="ZeeboxCore" values="scala" />
+      <project id="zconnect" values="scala" />
       <project id="chess" values="scala" />
+      <project id="ZeeboxCore" values="scala" />
       <project id="social-common" values="scala" />
       <project id="mailbox" values="scala" />
       <project id="social" values="scala" />
@@ -185,97 +190,102 @@
       <project id="recfun" values="scala" />
       <project id="socialgraph" values="scala" />
       <project id="profanity" values="scala" />
+      <project id="patmat" values="scala" />
       <project id="notifications" values="scala" />
       <project id="zCassandra" values="scala" />
       <project id="examples" values="scala" />
       <project id="auth" values="scala" />
     </group>
-    <group name="file-type">
-      <project id="stream-parser" values="IDEA_MODULE,IDEA_WORKSPACE,XML,Markdown,IDEA_PROJECT,UNKNOWN,JAVA,PLAIN_TEXT" />
-      <project id="auction" values="UNKNOWN,XML,JAVA,IDEA_MODULE" />
-      <project id="feeds" values="UNKNOWN,IDEA_MODULE,Scala,Properties,XML,Markdown,PLAIN_TEXT" />
-      <project id="threadtesting-mosaic" values="XML,JAVA,PLAIN_TEXT,IDEA_MODULE,UNKNOWN" />
-      <project id="reminders" values="Markdown,UNKNOWN,Scala,XML,Properties,IDEA_MODULE,Images,PLAIN_TEXT" />
-      <project id="djar" values="IDEA_MODULE,PLAIN_TEXT,JAVA,UNKNOWN,XML,Markdown" />
-      <project id="objsets" values="ARCHIVE,IDEA_MODULE,Eclipse,XML,Properties,UNKNOWN,Scala" />
-      <project id="ju-nit--hammer" values="JAVA,UNKNOWN,Markdown,IDEA_WORKSPACE,PLAIN_TEXT,XML,IDEA_MODULE,IDEA_PROJECT" />
-      <project id="test" values="IDEA_MODULE,JAVA,UNKNOWN,XML" />
-      <project id="epg" values="HTML,PLAIN_TEXT,Properties,JavaScript files (syntax highlighting only),XML,Scala,IDEA_MODULE,UNKNOWN" />
-      <project id="zconnect" values="UNKNOWN,Markdown,PLAIN_TEXT,Scala,XML,JavaScript files (syntax highlighting only),HTML,IDEA_MODULE,Properties" />
-      <project id="ZeeboxCore" values="IDEA_MODULE,Properties,Markdown,Scala,XML,UNKNOWN,PLAIN_TEXT,HTML" />
-      <project id="chess" values="XML,PLAIN_TEXT,IDEA_MODULE,Markdown,Scala,UNKNOWN" />
-      <project id="social-common" values="XML,UNKNOWN,PLAIN_TEXT,IDEA_MODULE,Scala,Markdown" />
-      <project id="mailbox" values="UNKNOWN,XML,CLASS,IDEA_MODULE,Properties,PLAIN_TEXT,Scala" />
-      <project id="jk" values="CLASS,PLAIN_TEXT,XML,Markdown,UNKNOWN,JAVA,ARCHIVE,IDEA_MODULE,HTML" />
-      <project id="mosaics" values="PLAIN_TEXT,IDEA_MODULE,UNKNOWN,JAVA,XML,CLASS" />
-      <project id="social" values="CLASS,Properties,Scala,HTML,ARCHIVE,CSS files (syntax highlighting only),IDEA_MODULE,UNKNOWN,Native,PLAIN_TEXT,JavaScript files (syntax highlighting only),Images,JAVA,Markdown,XML" />
-      <project id="commons" values="UNKNOWN,Native,PLAIN_TEXT,CLASS,IDEA_MODULE,XML,Scala,Properties,HTML,ARCHIVE" />
-      <project id="bookings" values="XML,CLASS,Scala,IDEA_MODULE,UNKNOWN,Properties,PLAIN_TEXT" />
-      <project id="zeebox-maven-plugin" values="UNKNOWN,IDEA_MODULE,Markdown,PLAIN_TEXT,JAVA,XML" />
-      <project id="zgateway" values="IDEA_MODULE,UNKNOWN,Markdown,HTML,Properties,JavaScript files (syntax highlighting only),Scala,PLAIN_TEXT,CSS files (syntax highlighting only),XML" />
-      <project id="maven-stage-plugin" values="UNKNOWN,CLASS,Properties,IDEA_MODULE,JAVA,XML,ARCHIVE,PLAIN_TEXT" />
-      <project id="facebook-opengraph-spike" values="XML,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,JAVA,Scala" />
-      <project id="junitpro" values="Markdown,PLAIN_TEXT,JAVA,XML,UNKNOWN,IDEA_MODULE" />
-      <project id="monitoring" values="UNKNOWN,XML,CLASS,IDEA_MODULE,PLAIN_TEXT" />
-      <project id="java-allocation-instrumenter-read-only" values="JAVA,IDEA_MODULE,UNKNOWN,ARCHIVE,XML,CLASS" />
-      <project id="funsets" values="Properties,Scala,XML,UNKNOWN,IDEA_MODULE,JavaScript files (syntax highlighting only),PLAIN_TEXT,Eclipse,ARCHIVE" />
-      <project id="apt" values="UNKNOWN,PLAIN_TEXT,IDEA_MODULE,XML,Properties,Scala,CLASS" />
-      <project id="social-clients" values="XML,IDEA_MODULE,PLAIN_TEXT,Properties,UNKNOWN,Markdown,Scala" />
-      <project id="logbook" values="UNKNOWN,IDEA_MODULE,XML,PLAIN_TEXT,JAVA,IDEA_WORKSPACE,Markdown,IDEA_PROJECT" />
-      <project id="cpt" values="Properties,Native,HTML,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,Scala,XML" />
-      <project id="cpt-client" values="HTML,IDEA_MODULE,UNKNOWN,XML,Scala,Properties" />
-      <project id="front" values="JAVA,PLAIN_TEXT,IDEA_MODULE,IDEA_WORKSPACE,Properties,UNKNOWN,IDEA_PROJECT,XML" />
-      <project id="elasticdb" values="JAVA,IDEA_PROJECT,IDEA_WORKSPACE,PLAIN_TEXT,IDEA_MODULE,XML,UNKNOWN" />
-      <project id="socialgraph" values="Markdown,CLASS,IDEA_MODULE,XML,Scala,PLAIN_TEXT,Properties,UNKNOWN" />
-      <project id="recfun" values="Scala,Properties,IDEA_MODULE,ARCHIVE,UNKNOWN,Eclipse,XML" />
-      <project id="neo4j-spike" values="JAVA,UNKNOWN,Properties,PLAIN_TEXT,IDEA_MODULE,XML" />
-      <project id="profanity" values="UNKNOWN,PLAIN_TEXT,Markdown,Scala,CLASS,IDEA_MODULE,XML" />
-      <project id="maven-deploy-plugin" values="JAVA,PLAIN_TEXT,ARCHIVE,Properties,HTML,UNKNOWN,IDEA_MODULE,XML" />
-      <project id="benchmark" values="IDEA_MODULE,UNKNOWN,JAVA,XML,PLAIN_TEXT" />
-      <project id="notifications" values="CLASS,Properties,PLAIN_TEXT,Markdown,UNKNOWN,XML,Scala,IDEA_MODULE" />
-      <project id="java-allocation-instrumenter" values="IDEA_MODULE,XML,UNKNOWN,JAVA" />
-      <project id="zCassandra" values="PLAIN_TEXT,Scala,IDEA_MODULE,Properties,UNKNOWN,XML" />
-      <project id="r2" values="IDEA_MODULE,UNKNOWN,IDEA_PROJECT,PLAIN_TEXT,XML,JAVA,IDEA_WORKSPACE" />
-      <project id="examples" values="Properties,IDEA_MODULE,PLAIN_TEXT,ARCHIVE,XML,Eclipse,UNKNOWN,Scala" />
-      <project id="maven-zeebox-plugin" values="IDEA_MODULE,JAVA,PLAIN_TEXT,Markdown,XML,UNKNOWN,ARCHIVE" />
-      <project id="auth" values="CSS files (syntax highlighting only),XML,Properties,Scala,Images,IDEA_MODULE,HTML,JavaScript files (syntax highlighting only),UNKNOWN,PLAIN_TEXT" />
-    </group>
     <group name="run-configuration-type-temp">
       <project id="stream-parser" values="JUnit" />
       <project id="auction" values="JUnit" />
       <project id="reminders" values="ScalaScriptConsoleRunConfiguration" />
-      <project id="junitpro" values="JUnit" />
       <project id="djar" values="Application" />
       <project id="objsets" values="ScalaTestRunConfiguration,Application" />
-      <project id="funsets" values="Application,ScalaTestRunConfiguration" />
+      <project id="forcomp" values="ScalaTestRunConfiguration" />
       <project id="ju-nit--hammer" values="JUnit" />
       <project id="test" values="JUnit" />
-      <project id="logbook" values="JUnit" />
       <project id="zconnect" values="JUnit,ScalaTestRunConfiguration" />
-      <project id="cpt" values="JUnit,Specs2RunConfiguration" />
-      <project id="ZeeboxCore" values="JUnit,Application,Specs2RunConfiguration" />
+      <project id="ZeeboxCore" values="Application,JUnit,Specs2RunConfiguration" />
       <project id="chess" values="JUnit,ScalaScriptConsoleRunConfiguration" />
-      <project id="front" values="Application" />
-      <project id="recfun" values="ScalaTestRunConfiguration" />
-      <project id="elasticdb" values="JUnit,Application" />
-      <project id="neo4j-spike" values="Application" />
       <project id="jk" values="Application,JUnit" />
-      <project id="benchmark" values="Application" />
       <project id="mosaics" values="JUnit" />
       <project id="commons" values="JUnit" />
       <project id="bookings" values="JUnit,ScalaScriptConsoleRunConfiguration" />
-      <project id="examples" values="ScalaTestRunConfiguration" />
       <project id="facebook-opengraph-spike" values="Application" />
+      <project id="junitpro" values="JUnit" />
+      <project id="funsets" values="ScalaTestRunConfiguration,Application" />
+      <project id="logbook" values="JUnit" />
+      <project id="cpt" values="JUnit,Specs2RunConfiguration" />
+      <project id="front" values="Application" />
+      <project id="elasticdb" values="JUnit,Application" />
+      <project id="recfun" values="ScalaTestRunConfiguration" />
+      <project id="neo4j-spike" values="Application" />
+      <project id="benchmark" values="Application" />
+      <project id="patmat" values="ScalaTestRunConfiguration" />
+      <project id="examples" values="ScalaTestRunConfiguration" />
+    </group>
+    <group name="file-type">
+      <project id="stream-parser" values="XML,IDEA_PROJECT,PLAIN_TEXT,JAVA,Markdown,UNKNOWN,IDEA_WORKSPACE,IDEA_MODULE" />
+      <project id="auction" values="IDEA_MODULE,XML,JAVA,UNKNOWN" />
+      <project id="feeds" values="UNKNOWN,Properties,Markdown,Scala,IDEA_MODULE,PLAIN_TEXT,XML" />
+      <project id="threadtesting-mosaic" values="XML,IDEA_MODULE,PLAIN_TEXT,JAVA,UNKNOWN" />
+      <project id="reminders" values="PLAIN_TEXT,Properties,Scala,XML,UNKNOWN,Markdown,IDEA_MODULE,Images" />
+      <project id="djar" values="IDEA_MODULE,Markdown,UNKNOWN,PLAIN_TEXT,XML,JAVA" />
+      <project id="objsets" values="XML,Scala,Eclipse,Properties,UNKNOWN,ARCHIVE,IDEA_MODULE" />
+      <project id="forcomp" values="XML,ARCHIVE,PLAIN_TEXT,CLASS,Properties,Eclipse,Scala,UNKNOWN,IDEA_MODULE" />
+      <project id="ju-nit--hammer" values="IDEA_WORKSPACE,XML,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,Markdown,IDEA_PROJECT,JAVA" />
+      <project id="test" values="UNKNOWN,JAVA,IDEA_MODULE,XML" />
+      <project id="zconnect" values="IDEA_MODULE,Scala,JavaScript files (syntax highlighting only),Properties,Markdown,HTML,XML,PLAIN_TEXT,UNKNOWN" />
+      <project id="epg" values="XML,JavaScript files (syntax highlighting only),Properties,IDEA_MODULE,Scala,UNKNOWN,PLAIN_TEXT,HTML" />
+      <project id="ZeeboxCore" values="UNKNOWN,Properties,PLAIN_TEXT,XML,Markdown,IDEA_MODULE,Scala,HTML" />
+      <project id="chess" values="IDEA_MODULE,UNKNOWN,Markdown,Scala,PLAIN_TEXT,XML" />
+      <project id="social-common" values="UNKNOWN,Markdown,IDEA_MODULE,PLAIN_TEXT,XML,Scala" />
+      <project id="mailbox" values="Scala,CLASS,UNKNOWN,Properties,IDEA_MODULE,PLAIN_TEXT,XML" />
+      <project id="jk" values="PLAIN_TEXT,XML,UNKNOWN,IDEA_MODULE,JAVA,HTML,Markdown,CLASS,ARCHIVE" />
+      <project id="mosaics" values="UNKNOWN,XML,CLASS,IDEA_MODULE,JAVA,PLAIN_TEXT" />
+      <project id="social" values="Markdown,Properties,PLAIN_TEXT,ARCHIVE,Scala,JavaScript files (syntax highlighting only),JAVA,HTML,Images,CLASS,IDEA_MODULE,Native,UNKNOWN,CSS files (syntax highlighting only),XML" />
+      <project id="commons" values="XML,Properties,CLASS,Scala,ARCHIVE,PLAIN_TEXT,IDEA_MODULE,HTML,Native,UNKNOWN" />
+      <project id="zeebox-maven-plugin" values="UNKNOWN,IDEA_MODULE,XML,PLAIN_TEXT,Markdown,JAVA" />
+      <project id="bookings" values="UNKNOWN,Scala,XML,PLAIN_TEXT,IDEA_MODULE,Properties,CLASS" />
+      <project id="zgateway" values="Markdown,UNKNOWN,Properties,HTML,JavaScript files (syntax highlighting only),PLAIN_TEXT,Scala,IDEA_MODULE,XML,CSS files (syntax highlighting only)" />
+      <project id="facebook-opengraph-spike" values="PLAIN_TEXT,IDEA_MODULE,XML,UNKNOWN,JAVA,Scala" />
+      <project id="maven-stage-plugin" values="PLAIN_TEXT,ARCHIVE,Properties,CLASS,JAVA,IDEA_MODULE,XML,UNKNOWN" />
+      <project id="junitpro" values="Markdown,IDEA_MODULE,XML,JAVA,UNKNOWN,PLAIN_TEXT" />
+      <project id="monitoring" values="UNKNOWN,IDEA_MODULE,PLAIN_TEXT,CLASS,XML" />
+      <project id="funsets" values="ARCHIVE,XML,Scala,IDEA_MODULE,JavaScript files (syntax highlighting only),PLAIN_TEXT,Properties,UNKNOWN,Eclipse" />
+      <project id="java-allocation-instrumenter-read-only" values="XML,CLASS,JAVA,ARCHIVE,UNKNOWN,IDEA_MODULE" />
+      <project id="apt" values="PLAIN_TEXT,UNKNOWN,IDEA_MODULE,Scala,XML,CLASS,Properties" />
+      <project id="social-clients" values="Scala,Properties,PLAIN_TEXT,Markdown,UNKNOWN,IDEA_MODULE,XML" />
+      <project id="logbook" values="IDEA_PROJECT,JAVA,XML,PLAIN_TEXT,UNKNOWN,IDEA_WORKSPACE,IDEA_MODULE,Markdown" />
+      <project id="cpt" values="IDEA_MODULE,Scala,PLAIN_TEXT,XML,Native,UNKNOWN,Properties,HTML" />
+      <project id="cpt-client" values="XML,Properties,IDEA_MODULE,Scala,UNKNOWN,HTML" />
+      <project id="front" values="Properties,IDEA_WORKSPACE,IDEA_PROJECT,UNKNOWN,PLAIN_TEXT,XML,JAVA,IDEA_MODULE" />
+      <project id="socialgraph" values="XML,UNKNOWN,CLASS,Markdown,Scala,IDEA_MODULE,Properties,PLAIN_TEXT" />
+      <project id="recfun" values="ARCHIVE,Properties,Eclipse,XML,IDEA_MODULE,Scala,UNKNOWN" />
+      <project id="elasticdb" values="JAVA,IDEA_WORKSPACE,IDEA_PROJECT,XML,PLAIN_TEXT,IDEA_MODULE,UNKNOWN" />
+      <project id="neo4j-spike" values="XML,IDEA_MODULE,UNKNOWN,JAVA,PLAIN_TEXT,Properties" />
+      <project id="profanity" values="PLAIN_TEXT,XML,CLASS,IDEA_MODULE,Scala,UNKNOWN,Markdown" />
+      <project id="maven-deploy-plugin" values="PLAIN_TEXT,JAVA,IDEA_MODULE,Properties,ARCHIVE,XML,HTML,UNKNOWN" />
+      <project id="patmat" values="XML,ARCHIVE,IDEA_MODULE,Scala,Eclipse,UNKNOWN,Properties" />
+      <project id="benchmark" values="UNKNOWN,JAVA,XML,IDEA_MODULE,PLAIN_TEXT" />
+      <project id="java-allocation-instrumenter" values="XML,UNKNOWN,IDEA_MODULE,JAVA" />
+      <project id="notifications" values="CLASS,PLAIN_TEXT,Markdown,Scala,UNKNOWN,IDEA_MODULE,XML,Properties" />
+      <project id="zCassandra" values="UNKNOWN,PLAIN_TEXT,XML,IDEA_MODULE,Properties,Scala" />
+      <project id="r2" values="XML,JAVA,IDEA_WORKSPACE,IDEA_PROJECT,PLAIN_TEXT,UNKNOWN,IDEA_MODULE" />
+      <project id="examples" values="XML,ARCHIVE,UNKNOWN,PLAIN_TEXT,Eclipse,IDEA_MODULE,Scala,Properties" />
+      <project id="maven-zeebox-plugin" values="ARCHIVE,XML,Markdown,JAVA,PLAIN_TEXT,UNKNOWN,IDEA_MODULE" />
+      <project id="auth" values="CSS files (syntax highlighting only),IDEA_MODULE,HTML,Properties,JavaScript files (syntax highlighting only),XML,Scala,UNKNOWN,Images,PLAIN_TEXT" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="42" />
+      <entry feature="CreateFile.CreateFileAction" count="45" />
       <entry feature="execute.Application.Run" count="588" />
-      <entry feature="execute.JUnit.Debug" count="142" />
-      <entry feature="execute.JUnit.Run" count="4055" />
+      <entry feature="execute.JUnit.Debug" count="158" />
+      <entry feature="execute.JUnit.Run" count="4481" />
       <entry feature="execute.ScalaScriptConsoleRunConfiguration.Run" count="1" />
-      <entry feature="execute.ScalaTestRunConfiguration.Run" count="121" />
+      <entry feature="execute.ScalaTestRunConfiguration.Run" count="205" />
       <entry feature="execute.Specs2RunConfiguration.Run" count="2" />
     </counts>
   </component>
